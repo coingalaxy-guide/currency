@@ -29,6 +29,16 @@
         "forks": 5,
         "commits": 3
       }
+    },
+    {
+      "name": "bnb-chain",
+      "symbol": "bnb",
+      "stats": {
+        "contributors": 429,
+        "dependents": 3,
+        "forks": 277,
+        "commits": 15196
+      }
     }
   ]
 }
