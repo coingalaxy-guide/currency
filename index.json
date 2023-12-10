@@ -1,0 +1,12 @@
+{
+  "currency": [
+    {
+      "name": "bitcoin",
+      "symbol": "btc"
+    },
+    {
+      "name": "ethereum",
+      "symbol": "eth"
+    }
+  ]
+}
