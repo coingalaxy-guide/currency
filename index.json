@@ -19,6 +19,16 @@
         "forks": 1840,
         "commits": 14714
       }
+    },
+    {
+      "name": "tether",
+      "symbol": "usdt",
+      "stats": {
+        "contributors": 1,
+        "dependents": 0,
+        "forks": 5,
+        "commits": 3
+      }
     }
   ]
 }
