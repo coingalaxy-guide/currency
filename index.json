@@ -2,11 +2,23 @@
   "currencies": [
     {
       "name": "bitcoin",
-      "symbol": "btc"
+      "symbol": "btc",
+      "stats": {
+        "contributors": 928,
+        "dependents": 19,
+        "forks": 1680,
+        "commits": 39611
+      }
     },
     {
       "name": "ethereum",
-      "symbol": "eth"
+      "symbol": "eth",
+      "stats": {
+        "contributors": 973,
+        "dependents": 15656,
+        "forks": 1840,
+        "commits": 14714
+      }
     }
   ]
 }
