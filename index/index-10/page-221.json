@@ -1,0 +1,112 @@
+[
+  {
+    "name": "YFFII Finance",
+    "slug": "yffii-finance",
+    "symbol": "yffii",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "WETH",
+    "slug": "weth",
+    "symbol": "weth",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wrapped Solana",
+    "slug": "wrapped-solana",
+    "symbol": "sol",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "USD Coin Bridged",
+    "slug": "usd-coin-bridged-usdc-e",
+    "symbol": "usdce",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wrapped AVAX",
+    "slug": "wavax",
+    "symbol": "wavax",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wrapped KuCoin Token",
+    "slug": "wrapped-kucoin-token",
+    "symbol": "wkcs",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wrapped Matic",
+    "slug": "wmatic",
+    "symbol": "wmatic",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Pyth Network",
+    "slug": "pyth-network",
+    "symbol": "pyth",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "OKT Chain",
+    "slug": "okt",
+    "symbol": "okt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Lido wstETH",
+    "slug": "lido-finance-wsteth",
+    "symbol": "wsteth",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Bounce Token",
+    "slug": "bounce-token",
+    "symbol": "auction",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NYM",
+    "slug": "nym",
+    "symbol": "nym",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Yield Guild Games",
+    "slug": "yield-guild-games",
+    "symbol": "ygg",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Venus USDC",
+    "slug": "venus-usdc",
+    "symbol": "vusdc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Astrafer",
+    "slug": "astrafer",
+    "symbol": "astrafer",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MediBloc",
+    "slug": "medibloc",
+    "symbol": "med",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Secret",
+    "slug": "secret",
+    "symbol": "scrt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bancor",
+    "slug": "bancor",
+    "symbol": "bnt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ardor",
+    "slug": "ardor",
+    "symbol": "ardr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BinaryX",
+    "slug": "binaryx-new",
+    "symbol": "bnx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Core",
+    "slug": "core-dao",
+    "symbol": "core",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "KWD",
+    "slug": "global-currency-reserve",
+    "symbol": "kwd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "USDX [Kava]",
+    "slug": "usdx-kava",
+    "symbol": "usdx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Radiant Capital",
+    "slug": "radiant-capital",
+    "symbol": "rdnt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "IQ",
+    "slug": "iq",
+    "symbol": "iq",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Dent",
+    "slug": "dent",
+    "symbol": "dent",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TNC Coin",
+    "slug": "tnc-coin",
+    "symbol": "tnc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Syscoin",
+    "slug": "syscoin",
+    "symbol": "sys",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bitcoin XT",
+    "slug": "trexcoin",
+    "symbol": "btcxt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Decimal",
+    "slug": "decimal",
+    "symbol": "del",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

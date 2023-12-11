@@ -1,0 +1,112 @@
+[
+  {
+    "name": "BeamSwap",
+    "slug": "beamswap",
+    "symbol": "glint",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PhoenixDAO",
+    "slug": "phoenixdao",
+    "symbol": "phnx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Neblio",
+    "slug": "neblio",
+    "symbol": "nebl",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Portuma",
+    "slug": "portuma",
+    "symbol": "por",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cyclone Protocol",
+    "slug": "cyclone-protocol",
+    "symbol": "cyc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bismuth",
+    "slug": "bismuth",
+    "symbol": "bis",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Levante U.D. Fan Token",
+    "slug": "levante-ud-fan-token",
+    "symbol": "lev",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Zap",
+    "slug": "zap",
+    "symbol": "zap",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Goldcoin",
+    "slug": "goldcoin",
+    "symbol": "glc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Fortuna Sittard Fan Token",
+    "slug": "fortuna-sittard-fan-token",
+    "symbol": "for",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

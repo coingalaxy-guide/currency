@@ -1,0 +1,1102 @@
+[
+  {
+    "name": "MetaTrace",
+    "slug": "metatrace",
+    "symbol": "trc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "VestChain",
+    "slug": "vestchain",
+    "symbol": "vest",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TomTomCoin",
+    "slug": "tomtomcoin",
+    "symbol": "toms",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Electric Vehicle Zone",
+    "slug": "electric-vehicle-zone",
+    "symbol": "evz",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Vidya",
+    "slug": "vidya",
+    "symbol": "vidya",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Onooks",
+    "slug": "onooks",
+    "symbol": "ooks",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "InsurAce",
+    "slug": "insurace",
+    "symbol": "insur",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Djed",
+    "slug": "djed",
+    "symbol": "djed",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Xaya",
+    "slug": "xaya",
+    "symbol": "chi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Chirpley",
+    "slug": "chirpley",
+    "symbol": "chrp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Lambda",
+    "slug": "lambda",
+    "symbol": "lamb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Uno Re",
+    "slug": "unore",
+    "symbol": "uno",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Inflation Hedging Coin",
+    "slug": "inflation-hedging-coin",
+    "symbol": "ihc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BaaSid",
+    "slug": "baasid",
+    "symbol": "baas",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "VEMP",
+    "slug": "vempire-ddao",
+    "symbol": "vemp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Dotmoovs",
+    "slug": "dotmoovs",
+    "symbol": "moov",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ReapChain",
+    "slug": "reapchain",
+    "symbol": "reap",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Zynecoin",
+    "slug": "zynecoin",
+    "symbol": "zyn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Triall",
+    "slug": "triall",
+    "symbol": "trl",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Lattice Token",
+    "slug": "lattice-token",
+    "symbol": "ltx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ROCO FINANCE",
+    "slug": "roco-finance",
+    "symbol": "roco",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Skey Network",
+    "slug": "smartkey",
+    "symbol": "skey",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ExNetwork Token",
+    "slug": "exnetwork-token",
+    "symbol": "exnt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TopGoal",
+    "slug": "topgoal",
+    "symbol": "goal",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Rangers Protocol",
+    "slug": "rangers-protocol",
+    "symbol": "rpg",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MOVEZ",
+    "slug": "movez",
+    "symbol": "movez",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Venus SXP",
+    "slug": "vsxp",
+    "symbol": "vsxp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ertha",
+    "slug": "ertha",
+    "symbol": "ertha",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TenUp",
+    "slug": "tenup",
+    "symbol": "tup",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Crypton",
+    "slug": "utopia",
+    "symbol": "crp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "OpenDAO",
+    "slug": "opendao",
+    "symbol": "sos",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Mint Club",
+    "slug": "mint-club",
+    "symbol": "mint",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "IguVerse",
+    "slug": "iguverse",
+    "symbol": "igu",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Morpheus Labs",
+    "slug": "morpheus-labs",
+    "symbol": "mitx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Horizon Protocol",
+    "slug": "horizon-protocol",
+    "symbol": "hzn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ClinTex CTi",
+    "slug": "clintex-cti",
+    "symbol": "cti",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "POLKER",
+    "slug": "polker",
+    "symbol": "pkr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Spore",
+    "slug": "spore",
+    "symbol": "spore",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "FREEdom Coin",
+    "slug": "free-coin",
+    "symbol": "free",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "iMe Lab",
+    "slug": "ime-lab",
+    "symbol": "lime",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Kommunitas",
+    "slug": "kommunitas",
+    "symbol": "kom",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Footballcoin (XFC)",
+    "slug": "footballcoin",
+    "symbol": "xfc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "FEAR",
+    "slug": "fear-nfts",
+    "symbol": "fear",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Kromatika",
+    "slug": "kromatika",
+    "symbol": "krom",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Polychain Monsters",
+    "slug": "polkamon",
+    "symbol": "pmon",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Alfa Romeo Racing ORLEN Fan Token",
+    "slug": "alfa-romeo-racing-orlen-fan-token",
+    "symbol": "sauber",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "OTOCASH",
+    "slug": "otocash",
+    "symbol": "oto",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ariva",
+    "slug": "ariva",
+    "symbol": "arv",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Venus Reward Token",
+    "slug": "venus-reward-token",
+    "symbol": "vrt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "All.Art Protocol",
+    "slug": "all-art-protocol",
+    "symbol": "aart",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "JumpToken",
+    "slug": "jumptoken",
+    "symbol": "jmpt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DOSE",
+    "slug": "dose",
+    "symbol": "dose",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DOGGY",
+    "slug": "doggy",
+    "symbol": "doggy",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Vertcoin",
+    "slug": "vertcoin",
+    "symbol": "vtc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ChainX",
+    "slug": "chainx",
+    "symbol": "pcx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SparkPoint",
+    "slug": "sparkpoint",
+    "symbol": "srk",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CheckDot",
+    "slug": "checkdot",
+    "symbol": "cdt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DEXGame",
+    "slug": "dexgame",
+    "symbol": "dxgm",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Rebel Bots",
+    "slug": "rebel-bots",
+    "symbol": "rbls",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Idavoll DAO",
+    "slug": "idavoll-network",
+    "symbol": "idv",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Gracy",
+    "slug": "colawork",
+    "symbol": "gracy",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wrapped Alvey Chain",
+    "slug": "alvey-chain",
+    "symbol": "walv",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "OpenLeverage",
+    "slug": "openleverage",
+    "symbol": "ole",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PureFi Protocol",
+    "slug": "purefi-protocol",
+    "symbol": "ufi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SunContract",
+    "slug": "suncontract",
+    "symbol": "snc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "AmonD",
+    "slug": "amond",
+    "symbol": "amon",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "OneLedger",
+    "slug": "oneledger",
+    "symbol": "olt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Tarot",
+    "slug": "tarot",
+    "symbol": "tarot",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Abyss",
+    "slug": "abyss",
+    "symbol": "abyss",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "AXIS Token",
+    "slug": "axis-token",
+    "symbol": "axis",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "suterusu",
+    "slug": "suterusu",
+    "symbol": "suter",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "FIBOS",
+    "slug": "fibos",
+    "symbol": "fo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Moneytoken",
+    "slug": "moneytoken",
+    "symbol": "imt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TENT",
+    "slug": "tent",
+    "symbol": "tent",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "xHashtag",
+    "slug": "xhashtag",
+    "symbol": "xtag",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Signum",
+    "slug": "signum",
+    "symbol": "signa",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "K21",
+    "slug": "k21",
+    "symbol": "k21",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Digital Fitness",
+    "slug": "digital-fitness",
+    "symbol": "defit",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Venus DOT",
+    "slug": "venus-dot",
+    "symbol": "vdot",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SpiritSwap",
+    "slug": "spiritswap",
+    "symbol": "spirit",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Kylin",
+    "slug": "kylin",
+    "symbol": "kyl",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NanoByte Token",
+    "slug": "nanobyte-token",
+    "symbol": "nbt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Modefi",
+    "slug": "modefi",
+    "symbol": "mod",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Gleec Coin",
+    "slug": "gleec",
+    "symbol": "gleec",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Witch Token",
+    "slug": "witch-token",
+    "symbol": "witch",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Infinity PAD",
+    "slug": "infinity-pad",
+    "symbol": "ipad",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NerveNetwork",
+    "slug": "nervenetwork",
+    "symbol": "nvt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TiFi Token",
+    "slug": "tifi-token",
+    "symbol": "tifi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Polylastic",
+    "slug": "polylastic",
+    "symbol": "polx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SHOPX",
+    "slug": "shopx-token",
+    "symbol": "shopx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Props Token",
+    "slug": "props",
+    "symbol": "props",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PointPay",
+    "slug": "pointpay",
+    "symbol": "pxp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Fabwelt",
+    "slug": "fabwelt",
+    "symbol": "welt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NuriTopia",
+    "slug": "nuritopia",
+    "symbol": "nblu",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TOP",
+    "slug": "top",
+    "symbol": "top",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wombat Exchange",
+    "slug": "wombat-exchange",
+    "symbol": "wom",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SafeCoin",
+    "slug": "safecoin",
+    "symbol": "safe",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ojamu",
+    "slug": "ojamu",
+    "symbol": "oja",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Klaydice",
+    "slug": "klaydice",
+    "symbol": "dice",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Monsta Infinite",
+    "slug": "monsta-infinite",
+    "symbol": "moni",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "MyOwnItem",
+    "slug": "myownitem-v2",
+    "symbol": "moi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DPRating",
+    "slug": "dprating",
+    "symbol": "rating",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Covenant",
+    "slug": "covenant-child",
+    "symbol": "covn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "HOLD VIP",
+    "slug": "hold-vip",
+    "symbol": "hold",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DDAO Hunters",
+    "slug": "defi-hunters-dao",
+    "symbol": "ddao",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CyberDragon Gold",
+    "slug": "cyberdragon-gold",
+    "symbol": "gold",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bolide",
+    "slug": "bolide",
+    "symbol": "blid",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Joltify",
+    "slug": "joltify",
+    "symbol": "jolt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Sheesha Finance Polygon",
+    "slug": "sheesha-finance-polygon",
+    "symbol": "msheesha",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Nahmii",
+    "slug": "nahmii",
+    "symbol": "nii",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "DefiBox",
+    "slug": "defibox",
+    "symbol": "box",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "FUFU",
+    "slug": "fufu",
+    "symbol": "fufu",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DeVault",
+    "slug": "devault",
+    "symbol": "dvt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Mojito Markets",
+    "slug": "mojito-markets",
+    "symbol": "mojo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Magic Crystal",
+    "slug": "magic-crystal",
+    "symbol": "mc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "D Community",
+    "slug": "d-community",
+    "symbol": "dili",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Neuroni AI",
+    "slug": "neuroni-ai",
+    "symbol": "neuroni",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ORDI 2.0",
+    "slug": "ordi-2-vip",
+    "symbol": "ordi2",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Lucro",
+    "slug": "lucro",
+    "symbol": "lcr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "2DAI.io",
+    "slug": "2dai-io",
+    "symbol": "2dai",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

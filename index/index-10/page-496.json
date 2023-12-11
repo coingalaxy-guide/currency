@@ -1,0 +1,112 @@
+[
+  {
+    "name": "GigaSwap",
+    "slug": "gigaswap",
+    "symbol": "giga",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cogecoin",
+    "slug": "cogecoin",
+    "symbol": "coge",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Seed.Photo",
+    "slug": "seed-photo",
+    "symbol": "seed",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Homer",
+    "slug": "homer-simpson30",
+    "symbol": "simpson 3.0",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cryptomeda",
+    "slug": "cryptomeda",
+    "symbol": "tech",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Balıkesirspor Token",
+    "slug": "balikesirspor-token",
+    "symbol": "blks",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ninja Protocol",
+    "slug": "ninja-protocol",
+    "symbol": "ninja",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Rome",
+    "slug": "rome",
+    "symbol": "rome",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "LS Coin",
+    "slug": "ls-trade",
+    "symbol": "lsc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Neuralink",
+    "slug": "neuralink-nlink",
+    "symbol": "nlink",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

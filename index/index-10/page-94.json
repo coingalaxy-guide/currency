@@ -1,0 +1,112 @@
+[
+  {
+    "name": "HAVAH",
+    "slug": "havah",
+    "symbol": "hvh",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Venus LINK",
+    "slug": "venus-link",
+    "symbol": "vlink",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Æternity",
+    "slug": "aeternity",
+    "symbol": "ae",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Lossless",
+    "slug": "lossless",
+    "symbol": "lss",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "GET Protocol",
+    "slug": "get-protocol",
+    "symbol": "get",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DOGAMÍ",
+    "slug": "dogami",
+    "symbol": "doga",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Buying.com",
+    "slug": "buying-com",
+    "symbol": "buy",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Augur",
+    "slug": "augur",
+    "symbol": "rep",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "$REKT",
+    "slug": "rektcoin",
+    "symbol": "rekt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Peercoin",
+    "slug": "peercoin",
+    "symbol": "ppc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

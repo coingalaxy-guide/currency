@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Frax Share",
+    "slug": "frax-share",
+    "symbol": "fxs",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Helium",
+    "slug": "helium",
+    "symbol": "hnt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Chiliz",
+    "slug": "chiliz",
+    "symbol": "chz",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Conflux",
+    "slug": "conflux-network",
+    "symbol": "cfx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ApeCoin",
+    "slug": "apecoin-ape",
+    "symbol": "ape",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bonk",
+    "slug": "bonk1",
+    "symbol": "bonk",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PancakeSwap",
+    "slug": "pancakeswap",
+    "symbol": "cake",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Pepe",
+    "slug": "pepe",
+    "symbol": "pepe",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Curve DAO Token",
+    "slug": "curve-dao-token",
+    "symbol": "crv",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Terra",
+    "slug": "terra-luna-v2",
+    "symbol": "luna",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

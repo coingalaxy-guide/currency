@@ -1,0 +1,552 @@
+[
+  {
+    "name": "Atletico De Madrid Fan Token",
+    "slug": "atletico-de-madrid-fan-token",
+    "symbol": "atm",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PowerPool",
+    "slug": "powerpool",
+    "symbol": "cvp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "XDEFI Wallet",
+    "slug": "xdefi-wallet",
+    "symbol": "xdefi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "HAPI Protocol",
+    "slug": "hapi-one",
+    "symbol": "hapi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Matrix AI Network",
+    "slug": "matrix-ai-network",
+    "symbol": "man",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "STFX",
+    "slug": "stfx",
+    "symbol": "stfx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NEST Protocol",
+    "slug": "nest-protocol",
+    "symbol": "nest",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Decubate",
+    "slug": "decubate",
+    "symbol": "dcb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Prosper",
+    "slug": "prosper",
+    "symbol": "pros",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Rupiah Token",
+    "slug": "rupiah-token",
+    "symbol": "idrt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "HUSD",
+    "slug": "husd",
+    "symbol": "husd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MarsDAO",
+    "slug": "marsdao",
+    "symbol": "mdao",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ooki Protocol",
+    "slug": "ooki-protocol",
+    "symbol": "ooki",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ERC20",
+    "slug": "erc20",
+    "symbol": "erc20",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Xend Finance",
+    "slug": "xend-finance",
+    "symbol": "xend",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "apM Coin",
+    "slug": "apm-coin",
+    "symbol": "apm",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "UFC Fan Token",
+    "slug": "ufc-fan-token",
+    "symbol": "ufc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Validity",
+    "slug": "validity",
+    "symbol": "val",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bepro",
+    "slug": "bepro-network",
+    "symbol": "bepro",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "UniLend",
+    "slug": "unilend",
+    "symbol": "uft",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Thetan Arena",
+    "slug": "thetan-arena",
+    "symbol": "thg",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Aventus",
+    "slug": "aventus",
+    "symbol": "avt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "XELS",
+    "slug": "xels",
+    "symbol": "xels",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Newscrypto",
+    "slug": "newscrypto",
+    "symbol": "nwc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Arianee",
+    "slug": "arianee-protocol",
+    "symbol": "aria20",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Handy",
+    "slug": "handy",
+    "symbol": "handy",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Evadore",
+    "slug": "evadore",
+    "symbol": "eva",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cosplay Token",
+    "slug": "cosplay-token",
+    "symbol": "cot",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "OpenOcean",
+    "slug": "openocean",
+    "symbol": "ooe",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "EverRise",
+    "slug": "everrise",
+    "symbol": "rise",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "HAVAH",
+    "slug": "havah",
+    "symbol": "hvh",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Venus LINK",
+    "slug": "venus-link",
+    "symbol": "vlink",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Æternity",
+    "slug": "aeternity",
+    "symbol": "ae",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Lossless",
+    "slug": "lossless",
+    "symbol": "lss",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "GET Protocol",
+    "slug": "get-protocol",
+    "symbol": "get",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DOGAMÍ",
+    "slug": "dogami",
+    "symbol": "doga",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Buying.com",
+    "slug": "buying-com",
+    "symbol": "buy",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Augur",
+    "slug": "augur",
+    "symbol": "rep",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "$REKT",
+    "slug": "rektcoin",
+    "symbol": "rekt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Peercoin",
+    "slug": "peercoin",
+    "symbol": "ppc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BitKan",
+    "slug": "bitkan",
+    "symbol": "kan",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SHPING",
+    "slug": "shping",
+    "symbol": "shping",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MixMarvel",
+    "slug": "mixmarvel",
+    "symbol": "mix",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Sentinel",
+    "slug": "sentinel",
+    "symbol": "dvpn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Argentine Football Association Fan Token",
+    "slug": "argentinefootballassociationfantoken",
+    "symbol": "arg",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bitcoin 2",
+    "slug": "bitcoin2",
+    "symbol": "btc2",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Dvision Network",
+    "slug": "dvision-network",
+    "symbol": "dvi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TRVL",
+    "slug": "trvl",
+    "symbol": "trvl",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cryowar",
+    "slug": "cryowar",
+    "symbol": "cwar",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Oxen",
+    "slug": "oxen",
+    "symbol": "oxen",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

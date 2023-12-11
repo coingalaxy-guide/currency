@@ -1,0 +1,12 @@
+{
+  "name": "Bitcoin",
+  "slug": "bitcoin",
+  "symbol": "btc",
+  "stats": {
+    "contributors": 928,
+    "dependents": 19,
+    "forks": 1680,
+    "commits": 39611
+  },
+  "repository": "https://github.com/bitcoin/bitcoin"
+}

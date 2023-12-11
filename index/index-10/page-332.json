@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Egoras Credit",
+    "slug": "egoras-credit",
+    "symbol": "egc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wrapped Dogecoin",
+    "slug": "wrapped-dogecoin",
+    "symbol": "wdoge",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CODAI",
+    "slug": "codai",
+    "symbol": "codai",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PLEXUS",
+    "slug": "plexus",
+    "symbol": "plx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Zeniq",
+    "slug": "zeniq",
+    "symbol": "zeniq",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Concentrator",
+    "slug": "concentrator-token",
+    "symbol": "ctr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "WATTTON",
+    "slug": "wattton",
+    "symbol": "watt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "AladdinDAO",
+    "slug": "aladdindao",
+    "symbol": "ald",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DORK",
+    "slug": "dork",
+    "symbol": "dork",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "AIDOGE",
+    "slug": "aidoge",
+    "symbol": "ai",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

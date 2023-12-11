@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Chitaverse",
+    "slug": "chitaverse",
+    "symbol": "bct",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Lodestar",
+    "slug": "lodestar",
+    "symbol": "lode",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "RadioShack",
+    "slug": "radioshack",
+    "symbol": "radio",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "RYI Unity",
+    "slug": "ryi-unity",
+    "symbol": "ryiu",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Medamon",
+    "slug": "medamon",
+    "symbol": "mon",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Generaitiv",
+    "slug": "generaitiv",
+    "symbol": "gai",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cryptostone",
+    "slug": "cryptostone",
+    "symbol": "cps",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Asva",
+    "slug": "asva-finance",
+    "symbol": "asva",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Espresso Bot",
+    "slug": "espresso-bot",
+    "symbol": "espr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Chives Coin",
+    "slug": "chives-coin",
+    "symbol": "xcc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

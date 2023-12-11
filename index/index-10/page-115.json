@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Dfyn Network",
+    "slug": "dfyn-network",
+    "symbol": "dfyn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BOSagora",
+    "slug": "bosagora",
+    "symbol": "boa",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Quantstamp",
+    "slug": "quantstamp",
+    "symbol": "qsp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DeHub",
+    "slug": "dehub",
+    "symbol": "dhb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Aurox",
+    "slug": "urus",
+    "symbol": "urus",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Giant Mammoth",
+    "slug": "giant-mammoth",
+    "symbol": "gmmt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ChainGuardians",
+    "slug": "chain-guardians",
+    "symbol": "cgg",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Litecoin Cash",
+    "slug": "litecoin-cash",
+    "symbol": "lcc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Rainmaker Games",
+    "slug": "rainmaker-games",
+    "symbol": "rain",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "v.systems",
+    "slug": "v-systems",
+    "symbol": "vsys",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

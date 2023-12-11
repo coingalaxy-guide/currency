@@ -1,0 +1,11 @@
+{
+  "name": "Coinbase Wrapped Staked ETH",
+  "slug": "coinbase-wrapped-staked-eth",
+  "symbol": "cbeth",
+  "stats": {
+    "contributors": 0,
+    "dependents": 0,
+    "forks": 0,
+    "commits": 0
+  }
+}

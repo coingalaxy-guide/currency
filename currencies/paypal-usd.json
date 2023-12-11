@@ -1,0 +1,11 @@
+{
+  "name": "PayPal USD",
+  "slug": "paypal-usd",
+  "symbol": "pyusd",
+  "stats": {
+    "contributors": 0,
+    "dependents": 0,
+    "forks": 0,
+    "commits": 0
+  }
+}

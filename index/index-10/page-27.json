@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Nakamoto Games",
+    "slug": "nakamoto-games",
+    "symbol": "naka",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Celer Network",
+    "slug": "celer-network",
+    "symbol": "celr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Reserve Rights",
+    "slug": "reserve-rights",
+    "symbol": "rsr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Gemini Dollar",
+    "slug": "gemini-dollar",
+    "symbol": "gusd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Loom Network",
+    "slug": "loom-network",
+    "symbol": "loom",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Coin98",
+    "slug": "coin98",
+    "symbol": "c98",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DigiByte",
+    "slug": "digibyte",
+    "symbol": "dgb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wilder World",
+    "slug": "wilder-world",
+    "symbol": "wild",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "LUKSO (Old)",
+    "slug": "lukso",
+    "symbol": "lyxe",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Rootstock Smart Bitcoin",
+    "slug": "rsk-smart-bitcoin",
+    "symbol": "rbtc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

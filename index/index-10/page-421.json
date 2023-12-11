@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Glint Coin",
+    "slug": "glint-coin",
+    "symbol": "glint",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "XDOGE",
+    "slug": "xdoge-vip",
+    "symbol": "xdoge",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "VIDY",
+    "slug": "vidy",
+    "symbol": "vidy",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Tomb Shares",
+    "slug": "tomb-shares",
+    "symbol": "tshare",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Shiba 2.0",
+    "slug": "shiba-20",
+    "symbol": "shiba 2.0",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BitWhite",
+    "slug": "bitwhite",
+    "symbol": "btw",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Marnotaur",
+    "slug": "marnotaur",
+    "symbol": "taur",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Plian",
+    "slug": "pchain",
+    "symbol": "pi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NiiFi",
+    "slug": "niifi",
+    "symbol": "niifi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TrustBase",
+    "slug": "trustbase",
+    "symbol": "tbe",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

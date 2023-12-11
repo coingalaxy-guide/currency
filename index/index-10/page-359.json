@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Wrapped Cardano",
+    "slug": "wrapped-cardano",
+    "symbol": "wada",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Conic Finance",
+    "slug": "conic-finance",
+    "symbol": "cnc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PodFast",
+    "slug": "podfast",
+    "symbol": "fast",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Pegaxy",
+    "slug": "pegaxy",
+    "symbol": "pgx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MOBIX",
+    "slug": "mobix",
+    "symbol": "mobx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Safereum",
+    "slug": "safereum",
+    "symbol": "safereum",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MEMELORD",
+    "slug": "memelord",
+    "symbol": "lord",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ShibElon",
+    "slug": "shibelon",
+    "symbol": "shibelon",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Socean Staked Sol",
+    "slug": "socean-staked-sol",
+    "symbol": "scnsol",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Game Coin",
+    "slug": "game-coin",
+    "symbol": "gmex",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

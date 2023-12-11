@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Solend",
+    "slug": "solend",
+    "symbol": "slnd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Badger DAO",
+    "slug": "badger-dao",
+    "symbol": "badger",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Gitcoin",
+    "slug": "gitcoin",
+    "symbol": "gtc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BakeryToken",
+    "slug": "bakerytoken",
+    "symbol": "bake",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cobak Token",
+    "slug": "cobak-token",
+    "symbol": "cbk",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Origin Protocol",
+    "slug": "origin-protocol",
+    "symbol": "ogn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ankr Staked ETH",
+    "slug": "ankreth",
+    "symbol": "ankreth",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Uquid Coin",
+    "slug": "uquid-coin",
+    "symbol": "uqc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Arkham",
+    "slug": "arkham",
+    "symbol": "arkm",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Adventure Gold",
+    "slug": "adventure-gold",
+    "symbol": "agld",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

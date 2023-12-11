@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Gracy",
+    "slug": "colawork",
+    "symbol": "gracy",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wrapped Alvey Chain",
+    "slug": "alvey-chain",
+    "symbol": "walv",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "OpenLeverage",
+    "slug": "openleverage",
+    "symbol": "ole",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PureFi Protocol",
+    "slug": "purefi-protocol",
+    "symbol": "ufi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SunContract",
+    "slug": "suncontract",
+    "symbol": "snc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "AmonD",
+    "slug": "amond",
+    "symbol": "amon",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "OneLedger",
+    "slug": "oneledger",
+    "symbol": "olt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Tarot",
+    "slug": "tarot",
+    "symbol": "tarot",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Abyss",
+    "slug": "abyss",
+    "symbol": "abyss",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "AXIS Token",
+    "slug": "axis-token",
+    "symbol": "axis",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

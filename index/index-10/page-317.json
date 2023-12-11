@@ -1,0 +1,112 @@
+[
+  {
+    "name": "THORWallet",
+    "slug": "thorwallet",
+    "symbol": "tgt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BitBook",
+    "slug": "bitbook",
+    "symbol": "bbt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Pollen",
+    "slug": "pollen",
+    "symbol": "pln",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Windfall Token",
+    "slug": "windfall-token",
+    "symbol": "wft",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "XShiba Inu",
+    "slug": "xshiba-inu",
+    "symbol": "xshiba",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NPICK BLOCK",
+    "slug": "npick-block",
+    "symbol": "npick",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Pikaboss",
+    "slug": "pikachu",
+    "symbol": "pika",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Mind Matrix",
+    "slug": "mind-matrix",
+    "symbol": "aimx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "xDAI",
+    "slug": "xdaistable",
+    "symbol": "xdai",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Metaverse Index",
+    "slug": "metaverse-index",
+    "symbol": "mvi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

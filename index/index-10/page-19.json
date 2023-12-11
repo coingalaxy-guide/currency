@@ -1,0 +1,112 @@
+[
+  {
+    "name": "DAO Maker",
+    "slug": "dao-maker",
+    "symbol": "dao",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Flux",
+    "slug": "zel",
+    "symbol": "flux",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Livepeer",
+    "slug": "livepeer",
+    "symbol": "lpt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bone ShibaSwap",
+    "slug": "bone-shibaswap",
+    "symbol": "bone",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Hive",
+    "slug": "hive-blockchain",
+    "symbol": "hive",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "IOST",
+    "slug": "iostoken",
+    "symbol": "iost",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Powerledger",
+    "slug": "power-ledger",
+    "symbol": "powr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Vulcan Forged PYR",
+    "slug": "vulcan-forged-pyr",
+    "symbol": "pyr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Kadena",
+    "slug": "kadena",
+    "symbol": "kda",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Echelon Prime",
+    "slug": "echelon-prime",
+    "symbol": "prime",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

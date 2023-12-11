@@ -1,0 +1,112 @@
+[
+  {
+    "name": "RAMP",
+    "slug": "ramp",
+    "symbol": "ramp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "EPIK Prime",
+    "slug": "epik-prime",
+    "symbol": "epik",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TABOO TOKEN",
+    "slug": "taboo-token",
+    "symbol": "taboo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Minswap",
+    "slug": "minswap",
+    "symbol": "min",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Solanium",
+    "slug": "solanium",
+    "symbol": "slim",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Coinweb",
+    "slug": "coinweb",
+    "symbol": "cweb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Aleph.im",
+    "slug": "aleph-im",
+    "symbol": "aleph",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PAID Network",
+    "slug": "paid-network",
+    "symbol": "paid",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Galatasaray Fan Token",
+    "slug": "galatasaray-fan-token",
+    "symbol": "gal",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "KardiaChain",
+    "slug": "kardiachain",
+    "symbol": "kai",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "name": "BitcoinX",
+    "slug": "bitcoinx",
+    "symbol": "bcx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Agave",
+    "slug": "agave",
+    "symbol": "agve",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "GMFAM",
+    "slug": "gmfam",
+    "symbol": "gmfam",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "KleeKai",
+    "slug": "kleekai",
+    "symbol": "klee",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Shiba Lite",
+    "slug": "shiba-lite",
+    "symbol": "shiblite",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DRC Mobility",
+    "slug": "drc-mobility",
+    "symbol": "drc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Burn",
+    "slug": "burn",
+    "symbol": "burn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Poken",
+    "slug": "poken",
+    "symbol": "pkn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PepeGains",
+    "slug": "pepegains",
+    "symbol": "pepegains",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SPACE-iZ",
+    "slug": "space-iz",
+    "symbol": "spiz",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "T23",
+    "slug": "t23",
+    "symbol": "t23",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Game.com",
+    "slug": "game",
+    "symbol": "gtc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Papa Bear",
+    "slug": "papa-bear",
+    "symbol": "papa",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Olea Token",
+    "slug": "olea-token",
+    "symbol": "olea",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Trans Pepe",
+    "slug": "trans-pepe",
+    "symbol": "trans",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Lavandos",
+    "slug": "lavandos",
+    "symbol": "lave",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "pBTC35A",
+    "slug": "pbtc35a",
+    "symbol": "pbtc35a",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "XENO Governance",
+    "slug": "xeno-governance",
+    "symbol": "gxe",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Navcoin",
+    "slug": "nav-coin",
+    "symbol": "nav",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Reign of Terror",
+    "slug": "reign-of-terror",
+    "symbol": "reign",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Railgun",
+    "slug": "railgun",
+    "symbol": "rail",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wrapped USDR",
+    "slug": "wrapped-usdr",
+    "symbol": "wusdr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MacaronSwap",
+    "slug": "macaronswap",
+    "symbol": "mcrn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "bloXmove Token",
+    "slug": "bloxmove",
+    "symbol": "blxm",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PROXI",
+    "slug": "proxi",
+    "symbol": "credit",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Lemond",
+    "slug": "lemond",
+    "symbol": "lemd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "HurricaneSwap Token",
+    "slug": "hurricaneswap-token",
+    "symbol": "hct",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "GreenEnvCoalition",
+    "slug": "greenenvcoalition",
+    "symbol": "gec",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Farmland Protocol",
+    "slug": "farmland-protocol",
+    "symbol": "far",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Trillant",
+    "slug": "trillant",
+    "symbol": "tri",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Monkeys Token",
+    "slug": "monkeys-token",
+    "symbol": "monkeys",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cramer Coin",
+    "slug": "cramer-coin",
+    "symbol": "cramer",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PolyPad",
+    "slug": "polypad",
+    "symbol": "polypad",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Fanadise",
+    "slug": "fanadise",
+    "symbol": "fan",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Venture Coin",
+    "slug": "venture-coin-2",
+    "symbol": "vc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "VNX EURO",
+    "slug": "vnx-euro",
+    "symbol": "veur",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PlayPad",
+    "slug": "playpad",
+    "symbol": "ppad",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "LemoChain",
+    "slug": "lemochain",
+    "symbol": "lemo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Calvaria: Duels of Eternity",
+    "slug": "calvaria",
+    "symbol": "ria",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ChainPort",
+    "slug": "chainport",
+    "symbol": "portx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Futureswap",
+    "slug": "futureswap",
+    "symbol": "fst",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ProximaX",
+    "slug": "proximax",
+    "symbol": "xpx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "RED",
+    "slug": "red",
+    "symbol": "red",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PUG AI",
+    "slug": "pug-ai",
+    "symbol": "pugai",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Basis Gold Share",
+    "slug": "basis-gold-share",
+    "symbol": "bags",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "KittenFinance",
+    "slug": "kittenfinance",
+    "symbol": "kif",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "reBaked",
+    "slug": "rebaked",
+    "symbol": "baked",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Synclub staked BNB",
+    "slug": "synclub",
+    "symbol": "snbnb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Fire Protocol",
+    "slug": "fire-protocol",
+    "symbol": "fire",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Super Bitcoin",
+    "slug": "super-bitcoin",
+    "symbol": "sbtc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

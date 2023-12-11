@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Crust Network",
+    "slug": "crustnetwork",
+    "symbol": "cru",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PIBBLE",
+    "slug": "pibble",
+    "symbol": "pib",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ICHI",
+    "slug": "ichi",
+    "symbol": "ichi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Swash",
+    "slug": "swash",
+    "symbol": "swash",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PlayZap",
+    "slug": "playzap",
+    "symbol": "pzp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MongCoin",
+    "slug": "mongcoin",
+    "symbol": "$mong",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "OAX",
+    "slug": "oax",
+    "symbol": "oax",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Celo Euro",
+    "slug": "celo-euro",
+    "symbol": "ceur",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Unisocks",
+    "slug": "unisocks",
+    "symbol": "socks",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Santos FC Fan Token",
+    "slug": "santos-fc-fan-token",
+    "symbol": "santos",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

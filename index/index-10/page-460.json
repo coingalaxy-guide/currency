@@ -1,0 +1,112 @@
+[
+  {
+    "name": "GameStop Tokenized Stock Defichain",
+    "slug": "gamestop-tokenized-stock-defichain",
+    "symbol": "dgme",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CoinPoker",
+    "slug": "coinpoker",
+    "symbol": "chp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Hudi",
+    "slug": "hudi",
+    "symbol": "hudi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "FIDO",
+    "slug": "fido-erc",
+    "symbol": "fido",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "IMVU",
+    "slug": "imvu",
+    "symbol": "vcore",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cronos ID",
+    "slug": "cronos-id",
+    "symbol": "croid",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Elyssa AR",
+    "slug": "elyssa-ar",
+    "symbol": "$ely",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Unicorn Milk",
+    "slug": "unicorn-milk-token",
+    "symbol": "unim",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Dogs Rock",
+    "slug": "dogs-rock",
+    "symbol": "dogsrock",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Betrock",
+    "slug": "betrock",
+    "symbol": "betrock",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

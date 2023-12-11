@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Damex Token",
+    "slug": "damex-token",
+    "symbol": "damex",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "FrogSwap",
+    "slug": "frogswap",
+    "symbol": "frog",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PlutusDAO",
+    "slug": "plutusdao",
+    "symbol": "pls",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "HYPERCOMIC",
+    "slug": "hypercomic",
+    "symbol": "hyco",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "AtPay",
+    "slug": "atpay",
+    "symbol": "atpay",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Frax Price Index Share",
+    "slug": "frax-price-index-share",
+    "symbol": "fpis",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Pesabase",
+    "slug": "pesabase",
+    "symbol": "pesa",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Equilibrium",
+    "slug": "equilibrium-eq",
+    "symbol": "eq",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "KOLnet",
+    "slug": "kolnet",
+    "symbol": "kolnet",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DogeBonk",
+    "slug": "dogebonk-io",
+    "symbol": "dobo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Step App",
+    "slug": "step-app",
+    "symbol": "fitfi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BurgerCities",
+    "slug": "burger-cities",
+    "symbol": "burger",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Pip",
+    "slug": "pip",
+    "symbol": "pip",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Everdome",
+    "slug": "everdome",
+    "symbol": "dome",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Zenon",
+    "slug": "zenon",
+    "symbol": "znn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Decentral Games",
+    "slug": "decentral-games",
+    "symbol": "dg",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CoinEx Token",
+    "slug": "coinex-token",
+    "symbol": "cet",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Radiant",
+    "slug": "radiant",
+    "symbol": "rxd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "StaFi",
+    "slug": "stafi",
+    "symbol": "fis",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "KILT Protocol",
+    "slug": "kiltprotocol",
+    "symbol": "kilt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

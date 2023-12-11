@@ -1,0 +1,112 @@
+[
+  {
+    "name": "IceCream",
+    "slug": "icecream",
+    "symbol": "ice",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PeerMe",
+    "slug": "superciety",
+    "symbol": "super",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "XcelDefi",
+    "slug": "xcel-swap",
+    "symbol": "xld",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Pepe AI",
+    "slug": "pepe-ai",
+    "symbol": "pepeai",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Mover",
+    "slug": "mover-xyz",
+    "symbol": "mover",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TTcoin",
+    "slug": "ttcoin",
+    "symbol": "tc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ARB Protocol",
+    "slug": "arb-protocol",
+    "symbol": "arb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "OciCat",
+    "slug": "ocicat",
+    "symbol": "ocicat",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Racing Club Fan Token",
+    "slug": "racing-club-fan-token",
+    "symbol": "racing",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "VNDC",
+    "slug": "vndc",
+    "symbol": "vndc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

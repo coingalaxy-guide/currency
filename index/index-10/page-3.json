@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Uniswap",
+    "slug": "uniswap",
+    "symbol": "uni",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Stellar",
+    "slug": "stellar",
+    "symbol": "xlm",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "OKB",
+    "slug": "okb",
+    "symbol": "okb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "UNUS SED LEO",
+    "slug": "unus-sed-leo",
+    "symbol": "leo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Monero",
+    "slug": "monero",
+    "symbol": "xmr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ethereum Classic",
+    "slug": "ethereum-classic",
+    "symbol": "etc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Kaspa",
+    "slug": "kaspa",
+    "symbol": "kas",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TrueUSD",
+    "slug": "trueusd",
+    "symbol": "tusd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cronos",
+    "slug": "cronos",
+    "symbol": "cro",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Hedera",
+    "slug": "hedera",
+    "symbol": "hbar",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

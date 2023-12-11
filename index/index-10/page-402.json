@@ -1,0 +1,112 @@
+[
+  {
+    "name": "MiniSwap",
+    "slug": "miniswap",
+    "symbol": "mini",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Aradena",
+    "slug": "aradena",
+    "symbol": "ag",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Panda DAO",
+    "slug": "pandadao",
+    "symbol": "panda",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TwitFi",
+    "slug": "twitfi",
+    "symbol": "twt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Unit Protocol Duck",
+    "slug": "unit-protocol-duck",
+    "symbol": "duck",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "WCAPES",
+    "slug": "wcapes",
+    "symbol": "wca",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Liquid Staked ETH",
+    "slug": "liquid-staked-eth",
+    "symbol": "lseth",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Kollect",
+    "slug": "kollect",
+    "symbol": "kol",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BEEP coin",
+    "slug": "beep-coin",
+    "symbol": "beep",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Collab.Land",
+    "slug": "collab-land",
+    "symbol": "collab",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Stargaze",
+    "slug": "stargaze",
+    "symbol": "stars",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Catboy",
+    "slug": "cat-boy",
+    "symbol": "catboy",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MiraQle",
+    "slug": "miraqle",
+    "symbol": "mql",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "LoopSwap",
+    "slug": "loopswap",
+    "symbol": "lswap",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Asia Coin",
+    "slug": "asia-coin",
+    "symbol": "asia",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Defira",
+    "slug": "defira",
+    "symbol": "fira",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BnkToTheFuture",
+    "slug": "bnktothefuture",
+    "symbol": "bft",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Green Beli",
+    "slug": "green-beli",
+    "symbol": "grbe",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MELI",
+    "slug": "meli-games",
+    "symbol": "meli",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SPECTRE AI",
+    "slug": "spectre-ai",
+    "symbol": "spectre",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

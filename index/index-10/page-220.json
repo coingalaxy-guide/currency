@@ -1,0 +1,112 @@
+[
+  {
+    "name": "PIAS",
+    "slug": "pias",
+    "symbol": "pias",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Storeum",
+    "slug": "storeum",
+    "symbol": "sto",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PREMA",
+    "slug": "prema",
+    "symbol": "prmx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ECOSC",
+    "slug": "ecosc",
+    "symbol": "ecu",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "S.Finance",
+    "slug": "s-finance",
+    "symbol": "sfg",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "KZ Cash",
+    "slug": "kz-cash",
+    "symbol": "kzc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wolf Safe Poor People (Polygon)",
+    "slug": "wolf-safe-poor-people-polygon",
+    "symbol": "wspp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Aeron",
+    "slug": "aeron",
+    "symbol": "arnx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CryptoPlanes",
+    "slug": "cryptoplanes",
+    "symbol": "cpan",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "HaloDAO",
+    "slug": "halodao",
+    "symbol": "rnbw",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

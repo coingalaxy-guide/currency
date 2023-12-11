@@ -1,0 +1,112 @@
+[
+  {
+    "name": "JasmyCoin",
+    "slug": "jasmy",
+    "symbol": "jasmy",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SafePal",
+    "slug": "safepal",
+    "symbol": "sfp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ethereum Name Service",
+    "slug": "ethereum-name-service",
+    "symbol": "ens",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ocean Protocol",
+    "slug": "ocean-protocol",
+    "symbol": "ocean",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ankr",
+    "slug": "ankr",
+    "symbol": "ankr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SuperVerse",
+    "slug": "superfarm",
+    "symbol": "super",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Waves",
+    "slug": "waves",
+    "symbol": "waves",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Storj",
+    "slug": "storj",
+    "symbol": "storj",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ICON",
+    "slug": "icon",
+    "symbol": "icx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Moonbeam",
+    "slug": "moonbeam",
+    "symbol": "glmr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

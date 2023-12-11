@@ -1,0 +1,112 @@
+[
+  {
+    "name": "WAM",
+    "slug": "wam-app",
+    "symbol": "wam",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "wrapped POKT",
+    "slug": "wrapped-pocket-network",
+    "symbol": "wpokt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "WiBX",
+    "slug": "wibx",
+    "symbol": "wbx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Solpad Finance",
+    "slug": "solpad-finance",
+    "symbol": "solpad",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Kryxivia",
+    "slug": "kryxivia",
+    "symbol": "kxa",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Guarantee",
+    "slug": "guarantee",
+    "symbol": "tee",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ecoin Finance",
+    "slug": "e-coin-finance-new",
+    "symbol": "ecoin",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wiki Cat",
+    "slug": "wiki-cat",
+    "symbol": "wkc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PsyOptions",
+    "slug": "psy-options",
+    "symbol": "psy",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SocialGood",
+    "slug": "socialgood",
+    "symbol": "sg",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

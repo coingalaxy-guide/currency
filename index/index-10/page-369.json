@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Satellite Doge-1",
+    "slug": "satellite-doge",
+    "symbol": "doge-1",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DogeCola",
+    "slug": "dogecola",
+    "symbol": "dogecola",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ZENEX",
+    "slug": "zenex",
+    "symbol": "znx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MetaX",
+    "slug": "metax-global",
+    "symbol": "atem",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Sentre Protocol",
+    "slug": "sentre-protocol",
+    "symbol": "sntr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cope",
+    "slug": "copewithus",
+    "symbol": "cope",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Nvidia Tokenized Stock Defichain",
+    "slug": "nvidia-tokenized-stock-defichain",
+    "symbol": "dnvda",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wrapped Huobi Token",
+    "slug": "wrapped-huobi-token",
+    "symbol": "wht",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Sakura Bloom",
+    "slug": "sakura-bloom",
+    "symbol": "skb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DeeLance",
+    "slug": "deelance",
+    "symbol": "dlance",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

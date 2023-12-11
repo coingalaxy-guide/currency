@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Bella Protocol",
+    "slug": "bella-protocol",
+    "symbol": "bel",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SingularityDAO",
+    "slug": "singularitydao",
+    "symbol": "sdao",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "smARTOFGIVING",
+    "slug": "smartofgiving",
+    "symbol": "aog",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Venus XVS",
+    "slug": "venus-xvs",
+    "symbol": "vxvs",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Biswap",
+    "slug": "biswap",
+    "symbol": "bsw",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Coreum",
+    "slug": "coreum",
+    "symbol": "coreum",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Perpetual Protocol",
+    "slug": "perpetual-protocol",
+    "symbol": "perp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Metacraft",
+    "slug": "metacraft",
+    "symbol": "mct",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Alephium",
+    "slug": "alephium",
+    "symbol": "alph",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Dero",
+    "slug": "dero",
+    "symbol": "dero",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

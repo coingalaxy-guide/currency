@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Comtech Gold",
+    "slug": "comtech-gold",
+    "symbol": "cgo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Strips Finance",
+    "slug": "strips-finance",
+    "symbol": "strp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Haven Protocol",
+    "slug": "haven-protocol",
+    "symbol": "xhv",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Kasta",
+    "slug": "kasta",
+    "symbol": "kasta",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Verse",
+    "slug": "verse-token",
+    "symbol": "verse",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Suku",
+    "slug": "suku",
+    "symbol": "suku",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TOKPIE",
+    "slug": "tokpie",
+    "symbol": "tkp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Origin DeFi Governance",
+    "slug": "origin-dollar-governance",
+    "symbol": "ogv",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bitrue Coin",
+    "slug": "bitrue-coin",
+    "symbol": "btr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ELYSIA",
+    "slug": "elysia",
+    "symbol": "el",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

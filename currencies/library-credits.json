@@ -1,0 +1,11 @@
+{
+  "name": "LBRY Credits",
+  "slug": "library-credits",
+  "symbol": "lbc",
+  "stats": {
+    "contributors": 0,
+    "dependents": 0,
+    "forks": 0,
+    "commits": 0
+  }
+}

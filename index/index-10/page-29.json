@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Rootstock Infrastructure Framework",
+    "slug": "rsk-infrastructure-framework",
+    "symbol": "rif",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "inSure DeFi",
+    "slug": "insure",
+    "symbol": "sure",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Pundi X (New)",
+    "slug": "pundix-new",
+    "symbol": "pundix",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "STASIS EURO",
+    "slug": "stasis-euro",
+    "symbol": "eurs",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "dKargo",
+    "slug": "dkargo",
+    "symbol": "dka",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Oasys",
+    "slug": "oasys",
+    "symbol": "oas",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PlayDapp",
+    "slug": "playdapp",
+    "symbol": "pla",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cartesi",
+    "slug": "cartesi",
+    "symbol": "ctsi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "STP",
+    "slug": "standard-tokenization-protocol",
+    "symbol": "stpt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "WeBuy",
+    "slug": "webuy",
+    "symbol": "we",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

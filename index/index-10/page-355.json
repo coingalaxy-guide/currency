@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Decentrawood",
+    "slug": "decentrawood",
+    "symbol": "deod",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MN Bridge",
+    "slug": "mn-bridge",
+    "symbol": "mnb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Lightning Bitcoin",
+    "slug": "lightning-bitcoin",
+    "symbol": "lbtc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Jones DAO",
+    "slug": "jones-dao",
+    "symbol": "jones",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TabTrader Token",
+    "slug": "tabtrader-token",
+    "symbol": "ttt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Pikaster",
+    "slug": "pikaster-rbp",
+    "symbol": "rbp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Intelly",
+    "slug": "intelly",
+    "symbol": "intl",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "WELD",
+    "slug": "weld-money",
+    "symbol": "weld",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "AETERNUS",
+    "slug": "aeternus",
+    "symbol": "atrno",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NEXTYPE",
+    "slug": "nextype",
+    "symbol": "nt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

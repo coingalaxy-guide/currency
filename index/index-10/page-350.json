@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Bitcoin Bam",
+    "slug": "bitcoin-bam",
+    "symbol": "btcbam",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Black Phoenix",
+    "slug": "black-phoenix",
+    "symbol": "bpx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Strip Finance",
+    "slug": "strip-finance",
+    "symbol": "strip",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Optimism PEPE",
+    "slug": "optimism-pepe",
+    "symbol": "opepe",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "noiseGPT",
+    "slug": "noisegpt",
+    "symbol": "noisegpt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Mecha Morphing",
+    "slug": "mecha-morphing",
+    "symbol": "mape",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "The Killbox",
+    "slug": "the-killbox",
+    "symbol": "kbox",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Fair BERC20",
+    "slug": "fair-berc20",
+    "symbol": "berc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "The Paradox Metaverse",
+    "slug": "paradox-metaverse",
+    "symbol": "paradox",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wrapped TFUEL",
+    "slug": "wrapped-tfuel",
+    "symbol": "wtfuel",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

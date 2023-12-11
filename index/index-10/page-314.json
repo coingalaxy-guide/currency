@@ -1,0 +1,112 @@
+[
+  {
+    "name": "DefiDollar",
+    "slug": "defidollar",
+    "symbol": "dusd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CARD.STARTER",
+    "slug": "card-starter",
+    "symbol": "cards",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Kusunoki Samurai",
+    "slug": "kusunoki-samurai",
+    "symbol": "kusunoki",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Genesys",
+    "slug": "genesys",
+    "symbol": "gsys",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Fathom Dollar",
+    "slug": "fathom-protocol",
+    "symbol": "fxd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ENCOINS",
+    "slug": "encoins",
+    "symbol": "encs",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MikeToken",
+    "slug": "miketoken",
+    "symbol": "mkt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "OGzClub",
+    "slug": "ogzclub",
+    "symbol": "ogz",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ASYAGRO",
+    "slug": "asyagro",
+    "symbol": "asy",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Orbit Bridge Klaytn Orbit Chain",
+    "slug": "orbit-bridge-klaytn-orbit-chain",
+    "symbol": "oorc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "MOE",
+    "slug": "moe",
+    "symbol": "moe",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "APWine Finance",
+    "slug": "apwine-finance",
+    "symbol": "apw",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BEETroot",
+    "slug": "beetroot",
+    "symbol": "beet",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Everex",
+    "slug": "everex",
+    "symbol": "evx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Insurabler",
+    "slug": "insurabler",
+    "symbol": "insr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BITONE",
+    "slug": "bitone",
+    "symbol": "bio",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Blacksmith Token",
+    "slug": "blacksmith-token",
+    "symbol": "bs",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "QCHAIN",
+    "slug": "qchain",
+    "symbol": "qdt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NextEarth",
+    "slug": "nextearth",
+    "symbol": "nxtt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Deflect Harbor AI",
+    "slug": "deflect-harbor-ai",
+    "symbol": "deflect",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

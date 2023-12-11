@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Internet Computer Technology",
+    "slug": "internet-computer-technology",
+    "symbol": "ict",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DAM Finance",
+    "slug": "dam-finance",
+    "symbol": "d2o",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "AMATERASU OMIKAMI",
+    "slug": "amaterasu-omikami",
+    "symbol": "omikami",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Oceanland",
+    "slug": "oceanland",
+    "symbol": "oland",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "IPVERSE (ETH)",
+    "slug": "ipverse-eth",
+    "symbol": "ipv",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ludena Protocol",
+    "slug": "ludena-protocol",
+    "symbol": "ldn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Thing",
+    "slug": "thing",
+    "symbol": "thing",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Blocksmith Labs Forge",
+    "slug": "blocksmith-labs-forge",
+    "symbol": "$forge",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Pollchain",
+    "slug": "pollchain",
+    "symbol": "poll",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Snail Trail",
+    "slug": "snail-trail",
+    "symbol": "slime",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

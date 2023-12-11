@@ -1,0 +1,112 @@
+[
+  {
+    "name": "GemHUB",
+    "slug": "gemhub",
+    "symbol": "ghub",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Tidalflats",
+    "slug": "tidalflats",
+    "symbol": "tide",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Nerd Bot",
+    "slug": "nerd-bot",
+    "symbol": "nerd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "AI Meta Club",
+    "slug": "ai-meta-club",
+    "symbol": "amc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CryptMi",
+    "slug": "cryptmi",
+    "symbol": "cymi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wrapped XDAI",
+    "slug": "wxdai",
+    "symbol": "wxdai",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "L",
+    "slug": "l",
+    "symbol": "$l",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Froge",
+    "slug": "froge",
+    "symbol": "froge",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wagie Bot",
+    "slug": "wagie-bot",
+    "symbol": "wagiebot",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Lingose",
+    "slug": "lingose",
+    "symbol": "ling",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

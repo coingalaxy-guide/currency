@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Tari World",
+    "slug": "tari-world",
+    "symbol": "tari",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PlasticHero",
+    "slug": "plastichero",
+    "symbol": "pth",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "OHMS (Ordinals)",
+    "slug": "ohms",
+    "symbol": "ohms",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Larix",
+    "slug": "larix",
+    "symbol": "larix",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ScamFari token",
+    "slug": "scamfari-token",
+    "symbol": "scm",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Optimus AI",
+    "slug": "optimus-ai-",
+    "symbol": "optimus ai",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "XDAO",
+    "slug": "xdao",
+    "symbol": "xdao",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "KlubCoin",
+    "slug": "klubcoin",
+    "symbol": "klub",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Domani Protocol",
+    "slug": "dextf-protocol",
+    "symbol": "dextf",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DucatusX",
+    "slug": "wrapped-ducatusx",
+    "symbol": "ducx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

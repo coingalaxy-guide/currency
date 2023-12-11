@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Space Misfits",
+    "slug": "space-misfits",
+    "symbol": "smcw",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Realis Network",
+    "slug": "realis-network",
+    "symbol": "lis",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "zkSync id",
+    "slug": "zksync-id",
+    "symbol": "zkid",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Kenshi V3",
+    "slug": "kenshi-v3",
+    "symbol": "kns",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cyberstella",
+    "slug": "cyberstella",
+    "symbol": "stl",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Itheum",
+    "slug": "itheum",
+    "symbol": "itheum",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Stella Fantasy",
+    "slug": "stella-fantasy",
+    "symbol": "sfty",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Stader MaticX",
+    "slug": "stader-maticx",
+    "symbol": "maticx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bear (Ordinals)",
+    "slug": "bear-ordinals",
+    "symbol": "bear",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Trace Network Labs",
+    "slug": "trace-network-labs",
+    "symbol": "trace",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

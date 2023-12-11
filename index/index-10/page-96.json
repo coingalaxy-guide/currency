@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Flamengo Fan Token",
+    "slug": "flamengo-fan-token",
+    "symbol": "mengo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cratos",
+    "slug": "cratos",
+    "symbol": "crts",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Unicly CryptoPunks Collection",
+    "slug": "unicly-cryptopunks-collection",
+    "symbol": "upunk",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Valor Token",
+    "slug": "valor-token",
+    "symbol": "valor",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Carbon Protocol",
+    "slug": "switcheo",
+    "symbol": "swth",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SquidGrow",
+    "slug": "squid-grow",
+    "symbol": "squidgrow",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Diamond Launch",
+    "slug": "diamond-launch",
+    "symbol": "dlc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ETHAX",
+    "slug": "ethax",
+    "symbol": "ethax",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SuperWalk",
+    "slug": "superwalk",
+    "symbol": "grnd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bytecoin",
+    "slug": "bytecoin-bcn",
+    "symbol": "bcn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

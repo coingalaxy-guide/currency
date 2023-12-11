@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Peepo (SOL)",
+    "slug": "peepo-sol",
+    "symbol": "$peep",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "rats (Ordinals)",
+    "slug": "rats-ordinals",
+    "symbol": "rats",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wojak",
+    "slug": "wojak",
+    "symbol": "wojak",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "KuSwap",
+    "slug": "kuswap",
+    "symbol": "kus",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Chainflip",
+    "slug": "chainflip",
+    "symbol": "flip",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DFX Finance",
+    "slug": "dfx-finance",
+    "symbol": "dfx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Sakai Vault",
+    "slug": "sakai-vault",
+    "symbol": "sakai",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Marinade",
+    "slug": "mnde",
+    "symbol": "mnde",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ALTAVA",
+    "slug": "altava",
+    "symbol": "tava",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Zeebu",
+    "slug": "zeebu",
+    "symbol": "zbu",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

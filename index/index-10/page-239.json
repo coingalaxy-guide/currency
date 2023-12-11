@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Open Exchange Token",
+    "slug": "open-exchange-token",
+    "symbol": "ox",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Evmos",
+    "slug": "evmos",
+    "symbol": "evmos",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Terra Classic USD (Wormhole)",
+    "slug": "terrausd-wormhole",
+    "symbol": "ustc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Nordek",
+    "slug": "nordek",
+    "symbol": "nrk",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SIGN",
+    "slug": "signin",
+    "symbol": "sign",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Rock Dao",
+    "slug": "rock-dao",
+    "symbol": "rock",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "300FIT NETWORK",
+    "slug": "300fit-network",
+    "symbol": "fit",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Love Hate Inu",
+    "slug": "love-hate-inu",
+    "symbol": "lhinu",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Crypto Carbon Energy",
+    "slug": "crypto-carbon-energy",
+    "symbol": "cyce",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Lenfi",
+    "slug": "aada-finance",
+    "symbol": "lenfi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

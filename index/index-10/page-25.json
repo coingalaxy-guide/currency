@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Ark",
+    "slug": "ark",
+    "symbol": "ark",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Venus BTC",
+    "slug": "venus-btc",
+    "symbol": "vbtc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Tribe",
+    "slug": "tribe",
+    "symbol": "tribe",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bitcoin Unlimited",
+    "slug": "unlimitedip",
+    "symbol": "btcu",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Telcoin",
+    "slug": "telcoin",
+    "symbol": "tel",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Decentralized Social",
+    "slug": "deso",
+    "symbol": "deso",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Pocket Network",
+    "slug": "pocket-network",
+    "symbol": "pokt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "USDJ",
+    "slug": "usdj",
+    "symbol": "usdj",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Big Time",
+    "slug": "big-time",
+    "symbol": "bigtime",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Raydium",
+    "slug": "raydium",
+    "symbol": "ray",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

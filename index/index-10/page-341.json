@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Revomon",
+    "slug": "revomon-v2",
+    "symbol": "revo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BANK (Ordinals)",
+    "slug": "bank-brc-20",
+    "symbol": "bank",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Lillian Token",
+    "slug": "lillian-token",
+    "symbol": "lyf",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Coral Swap",
+    "slug": "coral-swap",
+    "symbol": "coral",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BitCone",
+    "slug": "bitcone",
+    "symbol": "cone",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "LUNCARMY",
+    "slug": "luncarmy",
+    "symbol": "luncarmy",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Pacific",
+    "slug": "pacific",
+    "symbol": "paf",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Liquid CRO",
+    "slug": "veno-finance",
+    "symbol": "lcro",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CasinoCoin",
+    "slug": "casinocoin",
+    "symbol": "csc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Shina Inu",
+    "slug": "shina-inu",
+    "symbol": "shi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

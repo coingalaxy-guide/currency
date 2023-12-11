@@ -1,0 +1,112 @@
+[
+  {
+    "name": "xExchange",
+    "slug": "xexchange",
+    "symbol": "mex",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Shib2.0",
+    "slug": "shib20",
+    "symbol": "shib2.0",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "EGO",
+    "slug": "ego-paysenger",
+    "symbol": "ego",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SeaPad",
+    "slug": "seapad",
+    "symbol": "spt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Darkness Dollar",
+    "slug": "darkness-dollar",
+    "symbol": "dusd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Coinbase tokenized stock FTX",
+    "slug": "coinbase-pre-ipo-tokenized-stock-ftx",
+    "symbol": "coin",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Soulsaver",
+    "slug": "soulsaver",
+    "symbol": "soul",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PIZA (Ordinals)",
+    "slug": "piza-brc-20",
+    "symbol": "piza",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "KAP Games",
+    "slug": "kap-games",
+    "symbol": "kap",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Infinity Rocket Token",
+    "slug": "infinity-rocket-token",
+    "symbol": "irt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

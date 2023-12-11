@@ -1,0 +1,112 @@
+[
+  {
+    "name": "MMPRO Token",
+    "slug": "mmpro-token",
+    "symbol": "mmpro",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "APF coin",
+    "slug": "apf-coin",
+    "symbol": "apfc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "The X Protocol",
+    "slug": "the-x-protocol",
+    "symbol": "txp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DOS Network",
+    "slug": "dos-network",
+    "symbol": "dos",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Business Platform Tomato Coin",
+    "slug": "business-platform-tomato-coin",
+    "symbol": "bptc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Staika",
+    "slug": "staika",
+    "symbol": "stik",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cykura",
+    "slug": "cyclos",
+    "symbol": "cys",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Shuffle",
+    "slug": "hupayx",
+    "symbol": "sfl",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Parrot USD",
+    "slug": "parrot-usd",
+    "symbol": "pai",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TON Bridged USDT",
+    "slug": "ton-bridged-usdt",
+    "symbol": "jusdt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

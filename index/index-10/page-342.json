@@ -1,0 +1,112 @@
+[
+  {
+    "name": "MBD Financials",
+    "slug": "mbd-financials",
+    "symbol": "mbd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BinStarter",
+    "slug": "binstarter",
+    "symbol": "bsr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Lunr Token",
+    "slug": "lunr-token",
+    "symbol": "lunr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Buff Doge Coin",
+    "slug": "buff-doge-coin",
+    "symbol": "dogecoin",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Geegoopuzzle",
+    "slug": "geegoopuzzle",
+    "symbol": "ggp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "XFLOKI",
+    "slug": "xfloki",
+    "symbol": "xfloki",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DfiStarter",
+    "slug": "dfistarter",
+    "symbol": "dfi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Crepe Coin",
+    "slug": "crepe-coin",
+    "symbol": "crepe",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Law Blocks",
+    "slug": "law-blocks",
+    "symbol": "lbt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Let's Go Brandon Token",
+    "slug": "letsgobrandontoken",
+    "symbol": "lgbt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

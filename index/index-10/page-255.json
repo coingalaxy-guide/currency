@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Decentralized USD(Defichain)",
+    "slug": "decentralized-usd",
+    "symbol": "dusd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "IAGON",
+    "slug": "iagon",
+    "symbol": "iag",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "FONSmartChain",
+    "slug": "fonsmartchain",
+    "symbol": "fon",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bitgain",
+    "slug": "bitgain",
+    "symbol": "bgn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Lido Staked Matic",
+    "slug": "lido-staked-matic",
+    "symbol": "stmatic",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Sommelier",
+    "slug": "sommelier",
+    "symbol": "somm",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bitcoiva",
+    "slug": "bitcoiva",
+    "symbol": "bca",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Smart Reward Token",
+    "slug": "smart-reward-token",
+    "symbol": "srt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "HistoryDAO",
+    "slug": "historydao",
+    "symbol": "hao",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "stoicDAO",
+    "slug": "stoicdao",
+    "symbol": "zeta",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

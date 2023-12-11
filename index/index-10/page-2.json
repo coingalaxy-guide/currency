@@ -1,0 +1,112 @@
+[
+  {
+    "name": "TRON",
+    "slug": "tron",
+    "symbol": "trx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Polkadot",
+    "slug": "polkadot-new",
+    "symbol": "dot",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Chainlink",
+    "slug": "chainlink",
+    "symbol": "link",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Polygon",
+    "slug": "polygon",
+    "symbol": "matic",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Toncoin",
+    "slug": "toncoin",
+    "symbol": "ton",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Shiba Inu",
+    "slug": "shiba-inu",
+    "symbol": "shib",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Litecoin",
+    "slug": "litecoin",
+    "symbol": "ltc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Dai",
+    "slug": "multi-collateral-dai",
+    "symbol": "dai",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bitcoin Cash",
+    "slug": "bitcoin-cash",
+    "symbol": "bch",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cosmos",
+    "slug": "cosmos",
+    "symbol": "atom",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

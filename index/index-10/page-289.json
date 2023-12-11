@@ -1,0 +1,112 @@
+[
+  {
+    "name": "FireStarter",
+    "slug": "firestarter",
+    "symbol": "flame",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "UXD Protocol",
+    "slug": "uxd-protocol",
+    "symbol": "uxp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ARCS",
+    "slug": "arcs",
+    "symbol": "arx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Achain",
+    "slug": "achain",
+    "symbol": "act",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Yieldification",
+    "slug": "yieldification",
+    "symbol": "ydf",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TridentDAO",
+    "slug": "tridentdao",
+    "symbol": "psi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Pacman",
+    "slug": "pacman",
+    "symbol": "pac",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Nova",
+    "slug": "nova-ubi",
+    "symbol": "nova",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Shimmer",
+    "slug": "shimmer",
+    "symbol": "smr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Suzuverse",
+    "slug": "suzuverse",
+    "symbol": "sgt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "name": "LEVELG",
+    "slug": "levelg",
+    "symbol": "levelg",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Guardian",
+    "slug": "guardian",
+    "symbol": "guard",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DOGECUBE",
+    "slug": "dogecube",
+    "symbol": "dogecube",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Alpha Bot Calls",
+    "slug": "alpha-bot-calls",
+    "symbol": "abc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Zone of Avoidance",
+    "slug": "zone-of-avoidance",
+    "symbol": "zoa",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Uranium3o8",
+    "slug": "uranium3o8",
+    "symbol": "u",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bajun Network",
+    "slug": "ajuna-network",
+    "symbol": "baju",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Metronome",
+    "slug": "metronome",
+    "symbol": "met",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Liquidus Foundation",
+    "slug": "liquidus-new",
+    "symbol": "liq",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Mumu",
+    "slug": "mumu",
+    "symbol": "mumu",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "YURI",
+    "slug": "yuri",
+    "symbol": "yuri",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Karşıyaka Taraftar Fan Token",
+    "slug": "karsiyaka-taraftar-fan-token",
+    "symbol": "ksk",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NIX",
+    "slug": "nix-token",
+    "symbol": "nix",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Luna 2.0",
+    "slug": "luna-2-0",
+    "symbol": "luna2.0",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Darik",
+    "slug": "darik",
+    "symbol": "darik",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NeoCortexAI",
+    "slug": "neocortexai",
+    "symbol": "ncorai",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Meblox Protocol",
+    "slug": "meblox-protocol",
+    "symbol": "meb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cradles",
+    "slug": "cradles",
+    "symbol": "crds",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DogeKing",
+    "slug": "dogeking",
+    "symbol": "dogeking",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NftEyez",
+    "slug": "nfteyez",
+    "symbol": "eye",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Croatian FF Fan Token",
+    "slug": "croatian-ff-fan-token",
+    "symbol": "vatreni",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wonderful Memories",
+    "slug": "wrapped-memory",
+    "symbol": "wmemo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Drip Network",
+    "slug": "drip-network",
+    "symbol": "drip",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Potato",
+    "slug": "potato",
+    "symbol": "potato",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "INEDIBLE",
+    "slug": "inedible",
+    "symbol": "inedible",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "GBURN",
+    "slug": "gburn",
+    "symbol": "gburn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Tate",
+    "slug": "tate",
+    "symbol": "tate",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Yoshi.exchange",
+    "slug": "yoshi-exchange",
+    "symbol": "yoshi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BASE",
+    "slug": "swapbased-base",
+    "symbol": "base",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Harry",
+    "slug": "harry",
+    "symbol": "gorilla",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NexDAX Chain",
+    "slug": "nexdax-chain",
+    "symbol": "nt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "eBlockStock",
+    "slug": "eblockstock",
+    "symbol": "ebso",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "0x0.com",
+    "slug": "0x0",
+    "symbol": "0x0",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PL^Gnet",
+    "slug": "plgnet",
+    "symbol": "plug",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Scream",
+    "slug": "scream",
+    "symbol": "scream",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Zero Liquid",
+    "slug": "zero-liquid",
+    "symbol": "zero",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Green Blue Coin",
+    "slug": "green-blue-coin",
+    "symbol": "gbc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SESTERCE MONEY",
+    "slug": "versus",
+    "symbol": "ses",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "XSHIB",
+    "slug": "xshib",
+    "symbol": "xshib",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cakebot",
+    "slug": "cakebot",
+    "symbol": "cakebot",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SolAPE Token",
+    "slug": "solapefinance",
+    "symbol": "solape",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "GMD Protocol",
+    "slug": "gmd-protocol",
+    "symbol": "gmd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "The Kingdom Coin",
+    "slug": "the-kingdom-coin",
+    "symbol": "tkc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cope",
+    "slug": "copecoin",
+    "symbol": "cope",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BlackPool",
+    "slug": "blackpool",
+    "symbol": "bpt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CryptoUnity",
+    "slug": "cryptounity",
+    "symbol": "cut",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "The Recharge",
+    "slug": "recharge",
+    "symbol": "rcg",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Giddy",
+    "slug": "giddy",
+    "symbol": "gddy",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Good Gensler",
+    "slug": "good-gensler",
+    "symbol": "genslr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Reddit",
+    "slug": "reddit",
+    "symbol": "reddit",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

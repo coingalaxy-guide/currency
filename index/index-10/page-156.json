@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Belt Finance",
+    "slug": "belt",
+    "symbol": "belt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Mogul Productions",
+    "slug": "mogul-productions",
+    "symbol": "stars",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Aurigami",
+    "slug": "aurigami",
+    "symbol": "ply",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Graviocoin",
+    "slug": "graviocoin",
+    "symbol": "gio",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NFTY Token",
+    "slug": "nfty-network",
+    "symbol": "nfty",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "0xBitcoin",
+    "slug": "0xbtc",
+    "symbol": "0xbtc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "aiRight",
+    "slug": "airight",
+    "symbol": "airi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "OneArt",
+    "slug": "artwallet",
+    "symbol": "1art",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NFT Art Finance",
+    "slug": "nft-art-finance",
+    "symbol": "nftart",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Baanx",
+    "slug": "baanx",
+    "symbol": "bxx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

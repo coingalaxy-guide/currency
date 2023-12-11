@@ -1,0 +1,112 @@
+[
+  {
+    "name": "LeverageInu",
+    "slug": "leverageinu",
+    "symbol": "levi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "UPFI Network",
+    "slug": "upfi-network",
+    "symbol": "ups",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bit2Me",
+    "slug": "bit2me",
+    "symbol": "b2m",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CloudTx",
+    "slug": "cloudtx",
+    "symbol": "cloud",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Acet",
+    "slug": "acet",
+    "symbol": "act",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Nirvana Chain",
+    "slug": "nirvana-chain",
+    "symbol": "nac",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Phantom Protocol",
+    "slug": "phantom-protocol",
+    "symbol": "phm",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Kabosu Family",
+    "slug": "kabosu-family",
+    "symbol": "kabosu",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Newsly",
+    "slug": "newsly",
+    "symbol": "news",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "QASH",
+    "slug": "qash",
+    "symbol": "qash",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

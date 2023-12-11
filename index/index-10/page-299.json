@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Droggy",
+    "slug": "droggy",
+    "symbol": "droggy",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Indigo Protocol - iBTC",
+    "slug": "indigo-protocol-ibtc",
+    "symbol": "ibtc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BitcoinX",
+    "slug": "bitcoinx-bxc",
+    "symbol": "bxc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Changer",
+    "slug": "changer",
+    "symbol": "cng",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ViCA Token",
+    "slug": "vica-token",
+    "symbol": "vica",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "GLI TOKEN",
+    "slug": "gli-token",
+    "symbol": "gli",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Astroport",
+    "slug": "astroport-fi",
+    "symbol": "astro",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Chintai",
+    "slug": "chex-token",
+    "symbol": "chex",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Chumbi Valley",
+    "slug": "chumbi-valley",
+    "symbol": "chmb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Starfish Finance",
+    "slug": "starfish-finance",
+    "symbol": "sean",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

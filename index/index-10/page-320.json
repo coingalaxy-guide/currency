@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Energreen",
+    "slug": "energreen",
+    "symbol": "egrn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Continuum Finance",
+    "slug": "continuum-finance",
+    "symbol": "ctn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ethlas",
+    "slug": "ethlas",
+    "symbol": "els",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Nolus",
+    "slug": "nolus-io",
+    "symbol": "nls",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "JUNO",
+    "slug": "juno",
+    "symbol": "juno",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "LunchDAO",
+    "slug": "lunchdao",
+    "symbol": "lunch",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "STOA Network",
+    "slug": "defi-stoa",
+    "symbol": "sta",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Convex FXS",
+    "slug": "convex-fxs",
+    "symbol": "cvxfxs",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Kuma Inu",
+    "slug": "kuma-inu",
+    "symbol": "kuma",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SmartMesh",
+    "slug": "smartmesh",
+    "symbol": "smt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

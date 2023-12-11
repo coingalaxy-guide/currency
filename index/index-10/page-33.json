@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Bounce Token",
+    "slug": "bounce-token",
+    "symbol": "auction",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NYM",
+    "slug": "nym",
+    "symbol": "nym",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Yield Guild Games",
+    "slug": "yield-guild-games",
+    "symbol": "ygg",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Venus USDC",
+    "slug": "venus-usdc",
+    "symbol": "vusdc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Astrafer",
+    "slug": "astrafer",
+    "symbol": "astrafer",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MediBloc",
+    "slug": "medibloc",
+    "symbol": "med",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Secret",
+    "slug": "secret",
+    "symbol": "scrt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bancor",
+    "slug": "bancor",
+    "symbol": "bnt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ardor",
+    "slug": "ardor",
+    "symbol": "ardr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BinaryX",
+    "slug": "binaryx-new",
+    "symbol": "bnx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

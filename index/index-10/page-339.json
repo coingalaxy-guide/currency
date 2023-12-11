@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Crown Token",
+    "slug": "crown-token",
+    "symbol": "crown",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Exen Coin",
+    "slug": "exen-coin",
+    "symbol": "exen",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PRNT",
+    "slug": "prnt",
+    "symbol": "prnt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "YAY Games",
+    "slug": "yay-games",
+    "symbol": "yay",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Fluent Finance",
+    "slug": "fluent-finance",
+    "symbol": "usplus",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MoveApp",
+    "slug": "moveapp",
+    "symbol": "move",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DaoVerse",
+    "slug": "daoverse",
+    "symbol": "dvrs",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Oxbull.tech",
+    "slug": "oxbull-tech",
+    "symbol": "oxb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Game Fantasy Token",
+    "slug": "game-fantasy-token",
+    "symbol": "gft",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bitcoin TRC20",
+    "slug": "bitcoin-trc20",
+    "symbol": "btct",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

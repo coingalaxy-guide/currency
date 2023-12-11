@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Kreaitor",
+    "slug": "kreaitor",
+    "symbol": "kai",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Earn Network",
+    "slug": "earn-network",
+    "symbol": "earn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ambire Wallet",
+    "slug": "ambire-wallet",
+    "symbol": "wallet",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BookieBot",
+    "slug": "bookiebot",
+    "symbol": "bb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Doge CEO",
+    "slug": "doge-ceo",
+    "symbol": "dogeceo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Mandox Token",
+    "slug": "mandox-token",
+    "symbol": "mandox",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Graphite Protocol",
+    "slug": "graphite-protocol",
+    "symbol": "gp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cantina Royale",
+    "slug": "cantina-royale",
+    "symbol": "crt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "AAG",
+    "slug": "aag-ventures",
+    "symbol": "aag",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Golden Token",
+    "slug": "golden-token",
+    "symbol": "gold",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

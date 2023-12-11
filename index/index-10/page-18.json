@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Balancer",
+    "slug": "balancer",
+    "symbol": "bal",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Solar",
+    "slug": "sxp",
+    "symbol": "sxp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Biconomy",
+    "slug": "biconomy",
+    "symbol": "bico",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Harmony",
+    "slug": "harmony",
+    "symbol": "one",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Band Protocol",
+    "slug": "band-protocol",
+    "symbol": "band",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Magic",
+    "slug": "magic-token",
+    "symbol": "magic",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Seedify.fund",
+    "slug": "seedify-fund",
+    "symbol": "sfund",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SKALE",
+    "slug": "skale-network",
+    "symbol": "skl",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Centrifuge",
+    "slug": "centrifuge",
+    "symbol": "cfg",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ontology",
+    "slug": "ontology",
+    "symbol": "ont",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

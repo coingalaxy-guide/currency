@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Devour",
+    "slug": "devour-token-v2",
+    "symbol": "dpay",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CrowdSwap",
+    "slug": "crowdswap",
+    "symbol": "crowd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Light DeFi",
+    "slug": "light-defi",
+    "symbol": "light",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Derp Coin",
+    "slug": "derp-coin",
+    "symbol": "derp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bankless DAO",
+    "slug": "bankless-dao",
+    "symbol": "bank",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "XBOT",
+    "slug": "xbot-world",
+    "symbol": "xbot",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Hedron",
+    "slug": "hedron",
+    "symbol": "hdrn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BaseX",
+    "slug": "basex",
+    "symbol": "bsx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "GoodDollar",
+    "slug": "gooddollar",
+    "symbol": "g$",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Puff",
+    "slug": "puff",
+    "symbol": "puff",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

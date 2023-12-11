@@ -1,0 +1,552 @@
+[
+  {
+    "name": "Ares Protocol",
+    "slug": "ares-protocol",
+    "symbol": "ares",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Oikos",
+    "slug": "oikos",
+    "symbol": "oks",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Dragon Kart",
+    "slug": "dragon-kart",
+    "symbol": "kart",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Nerve Finance",
+    "slug": "nerve-finance",
+    "symbol": "nrv",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ChronoBase",
+    "slug": "chronobase",
+    "symbol": "tik",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ubiq",
+    "slug": "ubiq",
+    "symbol": "ubq",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CoTrader",
+    "slug": "cotrader",
+    "symbol": "cot",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "GoWithMi",
+    "slug": "gowithmi",
+    "symbol": "gmat",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Refinable",
+    "slug": "refinable",
+    "symbol": "fine",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "X-CASH",
+    "slug": "x-cash",
+    "symbol": "xcash",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Neutra Finance",
+    "slug": "neutra-finance",
+    "symbol": "neu",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Basis Cash",
+    "slug": "basis-cash",
+    "symbol": "bac",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TokenBot",
+    "slug": "tokenbot",
+    "symbol": "tkb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SaTT",
+    "slug": "satt",
+    "symbol": "satt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Kangal",
+    "slug": "kangal",
+    "symbol": "kangal",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Argon",
+    "slug": "argon",
+    "symbol": "argon",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "AquariusCoin",
+    "slug": "aquariuscoin",
+    "symbol": "arco",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "hiOD",
+    "slug": "hiod",
+    "symbol": "hiod",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NativeCoin",
+    "slug": "native-coin",
+    "symbol": "n8v",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "hiRENGA",
+    "slug": "hirenga",
+    "symbol": "hirenga",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Atlas Protocol",
+    "slug": "atlas-protocol",
+    "symbol": "atp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "hiSAND33",
+    "slug": "hisand33",
+    "symbol": "hisand33",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Safex Cash",
+    "slug": "safex-cash",
+    "symbol": "sfx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Nyzo",
+    "slug": "nyzo",
+    "symbol": "nyzo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "HeroesTD",
+    "slug": "heroes-td",
+    "symbol": "htd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Misbloc",
+    "slug": "misbloc",
+    "symbol": "msb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ZUM TOKEN",
+    "slug": "zum-token",
+    "symbol": "zum",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NextDAO",
+    "slug": "nextdao",
+    "symbol": "nax",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BeatzCoin",
+    "slug": "beatzcoin",
+    "symbol": "btzc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SolChicks Token",
+    "slug": "solchicks-token",
+    "symbol": "chicks",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Jigstack",
+    "slug": "jigstack",
+    "symbol": "stak",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ZELIX",
+    "slug": "onston",
+    "symbol": "zelix",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Empty Set Dollar",
+    "slug": "empty-set-dollar",
+    "symbol": "esd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Aluna.Social",
+    "slug": "aluna-social",
+    "symbol": "aln",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Peruvian National Football Team Fan Token",
+    "slug": "peruvian-national-football-team-fan-token",
+    "symbol": "fpft",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "renDOGE",
+    "slug": "rendoge",
+    "symbol": "rendoge",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "EVRYNET",
+    "slug": "evrynet",
+    "symbol": "evry",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Helmet.insure",
+    "slug": "helmet-insure",
+    "symbol": "helmet",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "hiVALHALLA",
+    "slug": "hivalhalla-fractionalized-nft-kucoin",
+    "symbol": "hivalhalla",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ritocoin",
+    "slug": "ritocoin",
+    "symbol": "rito",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "S4FE",
+    "slug": "s4fe",
+    "symbol": "s4f",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Mrweb Finance (new)",
+    "slug": "mrweb-finance-v2",
+    "symbol": "ama",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Aryacoin",
+    "slug": "aryacoin",
+    "symbol": "aya",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Forest Knight",
+    "slug": "forest-knight",
+    "symbol": "knight",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "hiODBS",
+    "slug": "hiodbs",
+    "symbol": "hiodbs",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ORAO Network",
+    "slug": "orao-network",
+    "symbol": "orao",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MetaverseX",
+    "slug": "meraversex",
+    "symbol": "metax",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Silva Token",
+    "slug": "silva-token",
+    "symbol": "silva",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "HempCoin",
+    "slug": "hempcoin",
+    "symbol": "thc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ASPO World",
+    "slug": "aspo-world",
+    "symbol": "aspo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

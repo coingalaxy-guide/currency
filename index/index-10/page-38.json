@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Hippocrat",
+    "slug": "hippocrat",
+    "symbol": "hpo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MyNeighborAlice",
+    "slug": "myneighboralice",
+    "symbol": "alice",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Radworks",
+    "slug": "radworks",
+    "symbol": "rad",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Hashflow",
+    "slug": "hashflow",
+    "symbol": "hft",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Shentu",
+    "slug": "shentu",
+    "symbol": "ctk",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Maverick Protocol",
+    "slug": "maverick-protocol",
+    "symbol": "mav",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Metadium",
+    "slug": "metadium",
+    "symbol": "meta",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Verasity",
+    "slug": "verasity",
+    "symbol": "vra",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "HELLO Labs",
+    "slug": "hello-labs",
+    "symbol": "hello",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cortex",
+    "slug": "cortex",
+    "symbol": "ctxc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

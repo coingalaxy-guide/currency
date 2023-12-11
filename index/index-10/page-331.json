@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Minebase",
+    "slug": "minebase",
+    "symbol": "mbase",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Milo CEO",
+    "slug": "milo-ceo",
+    "symbol": "miloceo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "STON.fi",
+    "slug": "ston",
+    "symbol": "ston",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Genius Yield",
+    "slug": "genius-yield",
+    "symbol": "gens",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ETH 2x Flexible Leverage Index",
+    "slug": "eth-2x-flexible-leverage-index",
+    "symbol": "eth2x-fli",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Baby Doge CEO",
+    "slug": "baby-doge-ceo",
+    "symbol": "babyceo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Drac (Ordinals)",
+    "slug": "drac-brc",
+    "symbol": "drac",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Babydoge 2.0",
+    "slug": "babydoge-20",
+    "symbol": "babydoge2.0",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Konnect",
+    "slug": "konnect",
+    "symbol": "kct",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "StarkMeta",
+    "slug": "starkmeta",
+    "symbol": "smeta",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

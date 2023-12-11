@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Moeda Loyalty Points",
+    "slug": "moeda-loyalty-points",
+    "symbol": "mda",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DeFIL",
+    "slug": "defil",
+    "symbol": "dfl",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "StarLink",
+    "slug": "starlink",
+    "symbol": "slnv2",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NFTMart Token",
+    "slug": "nftmart-token",
+    "symbol": "nmt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MODA DAO",
+    "slug": "moda-dao",
+    "symbol": "moda",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MM Optimizer (Polygon)",
+    "slug": "mm-optimizer-polygon",
+    "symbol": "mmo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Primas",
+    "slug": "primas",
+    "symbol": "pst",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Artem Coin",
+    "slug": "artem-coin",
+    "symbol": "artem",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "FansTime",
+    "slug": "fanstime",
+    "symbol": "fti",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ℓUSD",
+    "slug": "linear-finance",
+    "symbol": "lusd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Celestia",
+    "slug": "celestia",
+    "symbol": "tia",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Quant",
+    "slug": "quant",
+    "symbol": "qnt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BitTorrent (New)",
+    "slug": "bittorrent-new",
+    "symbol": "btt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Maker",
+    "slug": "maker",
+    "symbol": "mkr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Synthetix",
+    "slug": "synthetix",
+    "symbol": "snx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Flow",
+    "slug": "flow",
+    "symbol": "flow",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "The Sandbox",
+    "slug": "the-sandbox",
+    "symbol": "sand",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Theta Network",
+    "slug": "theta-network",
+    "symbol": "theta",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Terra Classic",
+    "slug": "terra-luna",
+    "symbol": "lunc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Fantom",
+    "slug": "fantom",
+    "symbol": "ftm",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

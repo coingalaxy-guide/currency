@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Gelato",
+    "slug": "gelato",
+    "symbol": "gel",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "KLAYswap Protocol",
+    "slug": "klayswap-protocol",
+    "symbol": "ksp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ethernity",
+    "slug": "ethernity-chain",
+    "symbol": "ern",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "H2O DAO",
+    "slug": "h2o-dao",
+    "symbol": "h2o",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Electroneum",
+    "slug": "electroneum",
+    "symbol": "etn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Phoenix",
+    "slug": "phoenix-global-new",
+    "symbol": "phb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Tether EURt",
+    "slug": "tether-eurt",
+    "symbol": "eurt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ArchLoot",
+    "slug": "archloot",
+    "symbol": "alt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Qredo",
+    "slug": "qredo",
+    "symbol": "qrdo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Dego Finance",
+    "slug": "dego-finance",
+    "symbol": "dego",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DIA",
+    "slug": "dia",
+    "symbol": "dia",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Aura Finance",
+    "slug": "aura-finance",
+    "symbol": "aura",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Sentinel Protocol",
+    "slug": "sentinel-protocol",
+    "symbol": "upp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NuNet",
+    "slug": "nunet",
+    "symbol": "ntx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Komodo",
+    "slug": "komodo",
+    "symbol": "kmd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Litentry",
+    "slug": "litentry",
+    "symbol": "lit",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Goldfinch",
+    "slug": "goldfinch-protocol",
+    "symbol": "gfi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "VAIOT",
+    "slug": "vaiot",
+    "symbol": "vai",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Velas",
+    "slug": "velas",
+    "symbol": "vlx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Turbo",
+    "slug": "turbo",
+    "symbol": "turbo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

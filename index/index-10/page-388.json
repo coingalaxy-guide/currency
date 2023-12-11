@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Santa Coin",
+    "slug": "santa-coin-2",
+    "symbol": "santa",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "UCX",
+    "slug": "utilies-cryptocurrency-exchange",
+    "symbol": "ucx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BoltBot",
+    "slug": "boltbot",
+    "symbol": "bolt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "One Cash",
+    "slug": "one-cash",
+    "symbol": "onc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BOY X HIGHSPEED",
+    "slug": "boy-x-highspeed",
+    "symbol": "bxh",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Sphere",
+    "slug": "spheresxs",
+    "symbol": "sxs",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Essentia",
+    "slug": "essentia",
+    "symbol": "ess",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Vee Finance",
+    "slug": "vee-finance",
+    "symbol": "vee",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ASSAPLAY",
+    "slug": "assaplay",
+    "symbol": "assa",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Moomonster",
+    "slug": "moomonster",
+    "symbol": "moo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

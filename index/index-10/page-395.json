@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Ben's Finale",
+    "slug": "bens-finale",
+    "symbol": "finale",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bitcoin File",
+    "slug": "bitcoin-file",
+    "symbol": "bifi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "HashCoin",
+    "slug": "hashcoin",
+    "symbol": "hsc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Voxto Amplify",
+    "slug": "voxto-amplify",
+    "symbol": "vxt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Defi For You",
+    "slug": "defi-for-you",
+    "symbol": "dfy",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bounty0x",
+    "slug": "bounty0x",
+    "symbol": "bnty",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Mimir Token",
+    "slug": "mimir-token",
+    "symbol": "mimir",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Epiko",
+    "slug": "the-epiko",
+    "symbol": "epiko",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Gas DAO",
+    "slug": "gas-dao",
+    "symbol": "gas",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Vader Protocol",
+    "slug": "vader-protocol",
+    "symbol": "vader",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

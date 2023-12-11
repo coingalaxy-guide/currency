@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Sarcophagus",
+    "slug": "sarcophagus",
+    "symbol": "sarco",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "FoxGPT",
+    "slug": "foxgpt",
+    "symbol": "fgpt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "XGPT",
+    "slug": "x-gpt",
+    "symbol": "xgpt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Marvin Inu",
+    "slug": "marvin-inu",
+    "symbol": "marvin",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TopManager",
+    "slug": "topmanager",
+    "symbol": "tmt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TiUSD",
+    "slug": "tiusd",
+    "symbol": "tiusd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Project Quantum",
+    "slug": "project-quantum",
+    "symbol": "qbit",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NOOT",
+    "slug": "noot",
+    "symbol": "$noot",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Jared From Subway",
+    "slug": "jared-from-subway",
+    "symbol": "jared",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "STREETH",
+    "slug": "streeth",
+    "symbol": "streeth",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

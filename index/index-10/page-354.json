@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Konstellation Network",
+    "slug": "konstellation-network",
+    "symbol": "darc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bandot Protocol",
+    "slug": "bandot-protocol",
+    "symbol": "bdt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Blast Frontiers",
+    "slug": "blast-frontiers",
+    "symbol": "blast",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wrapped Nervos Network",
+    "slug": "wrapped-nervos-network",
+    "symbol": "wckb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ExenPay Token",
+    "slug": "exenpay-token",
+    "symbol": "xnp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NAOS Finance",
+    "slug": "naos-finance",
+    "symbol": "naos",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "InpulseX(New)",
+    "slug": "inpulsex-new",
+    "symbol": "ipx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Imperium Empires",
+    "slug": "imperium-empires",
+    "symbol": "ime",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Idexo Token",
+    "slug": "idexo-token",
+    "symbol": "ido",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ryoma",
+    "slug": "ryoma",
+    "symbol": "ryoma",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

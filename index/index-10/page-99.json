@@ -1,0 +1,112 @@
+[
+  {
+    "name": "SAFE DEAL",
+    "slug": "safe-deal",
+    "symbol": "sfd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "RAI Finance",
+    "slug": "rai-finance-sofi",
+    "symbol": "sofi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SpookySwap",
+    "slug": "spookyswap",
+    "symbol": "boo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Pallapay",
+    "slug": "pallapay",
+    "symbol": "palla",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Dark Frontiers",
+    "slug": "dark-frontiers",
+    "symbol": "dark",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "QuadrantProtocol",
+    "slug": "quadrantprotocol",
+    "symbol": "equad",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cypherium",
+    "slug": "cypherium",
+    "symbol": "cph",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Torum",
+    "slug": "torum",
+    "symbol": "xtm",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "King DAG",
+    "slug": "king-dag",
+    "symbol": "kdag",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Sinverse",
+    "slug": "sincity-token",
+    "symbol": "sin",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

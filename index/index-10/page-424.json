@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Steakd",
+    "slug": "steakd",
+    "symbol": "sdx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MetaRim",
+    "slug": "metarim",
+    "symbol": "rim",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Tigris",
+    "slug": "tigris",
+    "symbol": "tig",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Creator Platform",
+    "slug": "creator-platform",
+    "symbol": "ctr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Carrot",
+    "slug": "carrot",
+    "symbol": "crt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CNNS",
+    "slug": "cnns",
+    "symbol": "cnns",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Nomad Exiles",
+    "slug": "nomad-exiles",
+    "symbol": "pride",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Filecoin Standard Hashrate Token",
+    "slug": "filecoin-standard-hashrate-token",
+    "symbol": "filst",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Plutus ARB",
+    "slug": "plutus-arb",
+    "symbol": "plsarb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Altbase",
+    "slug": "altbase",
+    "symbol": "altb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

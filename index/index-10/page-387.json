@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Karus Starter",
+    "slug": "ksm-starter",
+    "symbol": "kst",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Alpaca City",
+    "slug": "alpaca-city",
+    "symbol": "alpa",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cpos Cloud Payment",
+    "slug": "cpos-cloud-payment",
+    "symbol": "cpos",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Taxa Token",
+    "slug": "taxa-token",
+    "symbol": "txt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Crazy pepe",
+    "slug": "crazypepe",
+    "symbol": "crazypepe",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Qbao",
+    "slug": "qbao",
+    "symbol": "qbt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "UNION Protocol Governance Token",
+    "slug": "union-protocol-governance-token",
+    "symbol": "unn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CryptoXpress",
+    "slug": "cryptoxpress",
+    "symbol": "xpress",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ginoa",
+    "slug": "ginoa",
+    "symbol": "ginoa",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Menzy",
+    "slug": "menzy",
+    "symbol": "mnz",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

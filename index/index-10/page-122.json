@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Lambda",
+    "slug": "lambda",
+    "symbol": "lamb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Uno Re",
+    "slug": "unore",
+    "symbol": "uno",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Inflation Hedging Coin",
+    "slug": "inflation-hedging-coin",
+    "symbol": "ihc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BaaSid",
+    "slug": "baasid",
+    "symbol": "baas",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "VEMP",
+    "slug": "vempire-ddao",
+    "symbol": "vemp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Dotmoovs",
+    "slug": "dotmoovs",
+    "symbol": "moov",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ReapChain",
+    "slug": "reapchain",
+    "symbol": "reap",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Zynecoin",
+    "slug": "zynecoin",
+    "symbol": "zyn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Triall",
+    "slug": "triall",
+    "symbol": "trl",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Lattice Token",
+    "slug": "lattice-token",
+    "symbol": "ltx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

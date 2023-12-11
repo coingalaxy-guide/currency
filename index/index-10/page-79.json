@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Pitbull",
+    "slug": "pitbull",
+    "symbol": "pit",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Hermez Network",
+    "slug": "hermez-network",
+    "symbol": "hez",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Handshake",
+    "slug": "handshake",
+    "symbol": "hns",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Verified USD",
+    "slug": "verified-usd",
+    "symbol": "usdv",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ForTube",
+    "slug": "the-force-protocol",
+    "symbol": "for",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Volt Inu",
+    "slug": "volt-inu-v2",
+    "symbol": "volt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Indigo Protocol",
+    "slug": "indigo-protocol",
+    "symbol": "indy",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "LATOKEN",
+    "slug": "latoken",
+    "symbol": "la",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Unibright",
+    "slug": "unibright",
+    "symbol": "ubt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Dimitra",
+    "slug": "dimitra",
+    "symbol": "dmtr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

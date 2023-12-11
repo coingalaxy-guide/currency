@@ -1,0 +1,112 @@
+[
+  {
+    "name": "ParaSwap",
+    "slug": "paraswap",
+    "symbol": "psp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Quickswap [New]",
+    "slug": "quickswap-new",
+    "symbol": "quick",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Beefy",
+    "slug": "beefy-finance",
+    "symbol": "bifi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "AVA",
+    "slug": "ava",
+    "symbol": "ava",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BarnBridge",
+    "slug": "barnbridge",
+    "symbol": "bond",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "district0x",
+    "slug": "district0x",
+    "symbol": "dnt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Orion",
+    "slug": "orion-protocol",
+    "symbol": "orn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bonfida",
+    "slug": "bonfida",
+    "symbol": "fida",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Boba Network",
+    "slug": "boba-network",
+    "symbol": "boba",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Syntropy",
+    "slug": "syntropy",
+    "symbol": "noia",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

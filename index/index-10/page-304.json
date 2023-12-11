@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Floxypay",
+    "slug": "floxypay",
+    "symbol": "fxy",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NOOT (Ordinals)",
+    "slug": "noot-brc-20",
+    "symbol": "noot",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Protocon",
+    "slug": "protocon",
+    "symbol": "pen",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Lion Token",
+    "slug": "lion-token",
+    "symbol": "lion",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NEKO",
+    "slug": "neko",
+    "symbol": "neko",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wrapped Astar",
+    "slug": "wrapped-astar",
+    "symbol": "wastr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Curve.fi FRAX/USDC",
+    "slug": "curve-fi-frax-usdc",
+    "symbol": "crvfrax",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Sabai Ecoverse",
+    "slug": "sabai-ecoverse",
+    "symbol": "sabai",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Enigma",
+    "slug": "enigma",
+    "symbol": "eng",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Tribal Finance",
+    "slug": "tribal-token",
+    "symbol": "tribl",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

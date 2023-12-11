@@ -1,0 +1,112 @@
+[
+  {
+    "name": "BunnyPark",
+    "slug": "bunnypark",
+    "symbol": "bp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Omega Network",
+    "slug": "omega-network",
+    "symbol": "omn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CoFiX",
+    "slug": "cofix",
+    "symbol": "cofi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Fluxbot",
+    "slug": "fluxbot",
+    "symbol": "fluxb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Virtual Versions",
+    "slug": "vv-token",
+    "symbol": "vv",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Miner Arena",
+    "slug": "miner-arena",
+    "symbol": "minar",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Rekt",
+    "slug": "rekt-arb",
+    "symbol": "rekt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Blocksport",
+    "slug": "blocksport",
+    "symbol": "bspt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wrapped Harmony",
+    "slug": "wrapped-one",
+    "symbol": "wone",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "XRP Healthcare",
+    "slug": "xrp-healthcare",
+    "symbol": "xrph",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

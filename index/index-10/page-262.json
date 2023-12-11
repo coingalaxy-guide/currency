@@ -1,0 +1,112 @@
+[
+  {
+    "name": "AIA Chain",
+    "slug": "aia-smart-chain",
+    "symbol": "aia",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Platform of meme coins",
+    "slug": "platform-of-meme-coins",
+    "symbol": "payu",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Equalizer DEX",
+    "slug": "equalizer-dex",
+    "symbol": "equal",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "EI Risitas",
+    "slug": "ei-risitas",
+    "symbol": "kek",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Venus UNI",
+    "slug": "venus-uni",
+    "symbol": "vuni",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Apes Go Bananas",
+    "slug": "apes-go-bananas",
+    "symbol": "agb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Grok X",
+    "slug": "grok-x",
+    "symbol": "grok x",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BEN Coin(V2)",
+    "slug": "ben-coin-v2",
+    "symbol": "ben",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ETHDOWN",
+    "slug": "eth-down",
+    "symbol": "ethdown",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "RazrFi",
+    "slug": "solrazr",
+    "symbol": "solr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

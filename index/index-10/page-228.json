@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Crypto Asset Governance Alliance",
+    "slug": "crypto-asset-governance-alliance",
+    "symbol": "caga",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "cLFi",
+    "slug": "clfi",
+    "symbol": "clfi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "USD Coin (Wormhole)",
+    "slug": "usd-coin-wormhole-from-ethereum",
+    "symbol": "usdc(wormhole)",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "5ire",
+    "slug": "5ire",
+    "symbol": "5ire",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "RefundCoin",
+    "slug": "refund",
+    "symbol": "rfd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "The Root Network",
+    "slug": "the-root-network",
+    "symbol": "root",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Lybra Finance",
+    "slug": "lybra-finance",
+    "symbol": "lbr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "tBTC",
+    "slug": "tbtc-token",
+    "symbol": "tbtc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "XEN Crypto",
+    "slug": "xen-crypto",
+    "symbol": "xen",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Mintlayer",
+    "slug": "mintlayer",
+    "symbol": "ml",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

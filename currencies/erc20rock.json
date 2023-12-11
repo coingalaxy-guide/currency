@@ -1,0 +1,11 @@
+{
+  "name": "Rock",
+  "slug": "erc20rock",
+  "symbol": "rock",
+  "stats": {
+    "contributors": 0,
+    "dependents": 0,
+    "forks": 0,
+    "commits": 0
+  }
+}

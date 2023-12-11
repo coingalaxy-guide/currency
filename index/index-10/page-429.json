@@ -1,0 +1,112 @@
+[
+  {
+    "name": "stake.link",
+    "slug": "stake-link",
+    "symbol": "sdl",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "unshETHing_Token",
+    "slug": "unsheth",
+    "symbol": "ush",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Janus Network",
+    "slug": "janus-network",
+    "symbol": "jns",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Battle For Giostone",
+    "slug": "battle-for-giostone",
+    "symbol": "bfg",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Zipmex",
+    "slug": "zipmex",
+    "symbol": "zmt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SubDAO",
+    "slug": "subdao",
+    "symbol": "gov",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Beethoven X",
+    "slug": "beethoven-x",
+    "symbol": "beets",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Colizeum",
+    "slug": "colizeum",
+    "symbol": "zeum",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CoinBot",
+    "slug": "coinbot",
+    "symbol": "coinbt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Okuru",
+    "slug": "okuru",
+    "symbol": "xot",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

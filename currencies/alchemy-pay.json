@@ -1,0 +1,11 @@
+{
+  "name": "Alchemy Pay",
+  "slug": "alchemy-pay",
+  "symbol": "ach",
+  "stats": {
+    "contributors": 0,
+    "dependents": 0,
+    "forks": 0,
+    "commits": 0
+  }
+}

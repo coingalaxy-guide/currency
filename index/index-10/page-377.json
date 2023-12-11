@@ -1,0 +1,112 @@
+[
+  {
+    "name": "MemePad",
+    "slug": "memepad",
+    "symbol": "mepad",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DeFi Warrior (FIWA)",
+    "slug": "defi-warrior",
+    "symbol": "fiwa",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DEXO",
+    "slug": "dexo",
+    "symbol": "dexo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ethos Reserve Note",
+    "slug": "ethos-reserve-note",
+    "symbol": "ern",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "KlimaDAO",
+    "slug": "klimadao",
+    "symbol": "klima",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "VidyX",
+    "slug": "vidyx",
+    "symbol": "vidyx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BaconDAO",
+    "slug": "bacondao",
+    "symbol": "bacon",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CrossWallet",
+    "slug": "crosswallet",
+    "symbol": "cwt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "StellaSwap",
+    "slug": "stellaswap",
+    "symbol": "stella",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CATCOIN",
+    "slug": "catcoin-token",
+    "symbol": "cats",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

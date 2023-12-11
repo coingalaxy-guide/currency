@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Ankr Staked MATIC",
+    "slug": "ankr-reward-earning-matic",
+    "symbol": "ankrmatic",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "META ARENA",
+    "slug": "klaymeta",
+    "symbol": "meta",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MESSIER",
+    "slug": "messier",
+    "symbol": "m87",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MuzzleToken",
+    "slug": "muzzletoken",
+    "symbol": "muzz",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "VIP Token",
+    "slug": "vip-token",
+    "symbol": "vip",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PIKACHU INU",
+    "slug": "tokenpikachuinu",
+    "symbol": "pikachu",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ASH",
+    "slug": "ash",
+    "symbol": "ash",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Acta Finance",
+    "slug": "acta-finance",
+    "symbol": "acta",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bobo",
+    "slug": "bobo",
+    "symbol": "bobo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Graviton",
+    "slug": "grav",
+    "symbol": "grav",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

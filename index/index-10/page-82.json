@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Namecoin",
+    "slug": "namecoin",
+    "symbol": "nmc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Viberate",
+    "slug": "viberate",
+    "symbol": "vib",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Arsenal Fan Token",
+    "slug": "arsenal-fan-token",
+    "symbol": "afc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Push Protocol",
+    "slug": "epns",
+    "symbol": "push",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Shido (New)",
+    "slug": "shido-inu-new",
+    "symbol": "shido",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Karura",
+    "slug": "karura",
+    "symbol": "kar",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Pintu Token",
+    "slug": "pintu-token",
+    "symbol": "ptu",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "AIPAD",
+    "slug": "aipad",
+    "symbol": "aipad",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Onomy Protocol",
+    "slug": "onomy-protocol",
+    "symbol": "nom",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ellipsis",
+    "slug": "ellipsis",
+    "symbol": "eps",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

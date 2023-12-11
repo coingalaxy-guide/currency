@@ -1,0 +1,112 @@
+[
+  {
+    "name": "xcDOT",
+    "slug": "xcdot",
+    "symbol": "xcdot",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "XActRewards",
+    "slug": "xactrewards",
+    "symbol": "xact",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "mCoin",
+    "slug": "mcoin1",
+    "symbol": "mcoin",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "sETH2",
+    "slug": "seth2",
+    "symbol": "seth2",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Helium Mobile",
+    "slug": "helium-mobile",
+    "symbol": "mobile",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Orbofi AI",
+    "slug": "orbofi-ai",
+    "symbol": "obi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cyber Arena",
+    "slug": "cyber-arena",
+    "symbol": "cat",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "USDP Stablecoin",
+    "slug": "usdp",
+    "symbol": "usdp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wasder",
+    "slug": "wasder",
+    "symbol": "was",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Venus TRX",
+    "slug": "venus-trx",
+    "symbol": "vtrx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

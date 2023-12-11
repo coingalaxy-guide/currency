@@ -1,0 +1,112 @@
+[
+  {
+    "name": "WOM Protocol",
+    "slug": "wom-protocol",
+    "symbol": "wom",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Fringe Finance",
+    "slug": "fringe-finance",
+    "symbol": "frin",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Integral",
+    "slug": "integral",
+    "symbol": "itgr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "LBRY Credits",
+    "slug": "library-credits",
+    "symbol": "lbc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "AstroSwap",
+    "slug": "astroswap",
+    "symbol": "astro",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TRAVA.FINANCE",
+    "slug": "trava-finance",
+    "symbol": "trava",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Callisto Network",
+    "slug": "callisto-network",
+    "symbol": "clo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Monetha",
+    "slug": "monetha",
+    "symbol": "mth",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SafeMoon",
+    "slug": "safemoon",
+    "symbol": "safemoon",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Green Satoshi Token (BSC)",
+    "slug": "green-satoshi-token-bsc",
+    "symbol": "gst",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Sphynx Labs",
+    "slug": "sphynx-bsc",
+    "symbol": "sphynx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ZkTsunami",
+    "slug": "zktsunami",
+    "symbol": ":zkt:",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Osmo Bot",
+    "slug": "osmo-bot",
+    "symbol": "osmo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Idle Ninja Online",
+    "slug": "idle-ninja-online",
+    "symbol": "ninky",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Tethys",
+    "slug": "tethys",
+    "symbol": "tethys",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SPECIEX",
+    "slug": "speciex",
+    "symbol": "spex",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Friends With Benefits Pro",
+    "slug": "friends-with-benefits-pro",
+    "symbol": "fwb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Satozhi",
+    "slug": "satozhi",
+    "symbol": "satoz",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Banus.Finance",
+    "slug": "banus-finance",
+    "symbol": "banus",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "peg-eUSD",
+    "slug": "peg-eusd",
+    "symbol": "peusd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

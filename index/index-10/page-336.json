@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Bonk Earn",
+    "slug": "bonk-earn",
+    "symbol": "bern",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DEVAI",
+    "slug": "devai",
+    "symbol": "0xdev",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Qubit",
+    "slug": "qubit",
+    "symbol": "qbt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MoonDAO",
+    "slug": "mooney",
+    "symbol": "mooney",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Metarun",
+    "slug": "metarun",
+    "symbol": "mrun",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Privapp Network",
+    "slug": "privapp-network",
+    "symbol": "bpriva",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ApeX Protocol",
+    "slug": "apex-token",
+    "symbol": "apex",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MOROS NET",
+    "slug": "moros-net",
+    "symbol": "moros",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bear Inu",
+    "slug": "bear-inu",
+    "symbol": "bear",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "WHEE (Ordinals)",
+    "slug": "whee",
+    "symbol": "whee",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

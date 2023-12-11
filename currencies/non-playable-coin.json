@@ -1,0 +1,11 @@
+{
+  "name": "Non-Playable Coin",
+  "slug": "non-playable-coin",
+  "symbol": "npc",
+  "stats": {
+    "contributors": 0,
+    "dependents": 0,
+    "forks": 0,
+    "commits": 0
+  }
+}

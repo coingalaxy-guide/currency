@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Valobit",
+    "slug": "valobit",
+    "symbol": "vbit",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BitTorrent",
+    "slug": "bittorrent",
+    "symbol": "bttold",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Baby Doge Coin",
+    "slug": "baby-doge-coin",
+    "symbol": "babydoge",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "FINSCHIA",
+    "slug": "finschia",
+    "symbol": "fnsa",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Edgecoin",
+    "slug": "edgecoin",
+    "symbol": "edgt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "OriginTrail",
+    "slug": "origintrail",
+    "symbol": "trac",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SwissBorg",
+    "slug": "swissborg",
+    "symbol": "borg",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Liquity USD",
+    "slug": "liquity-usd",
+    "symbol": "lusd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Symbol",
+    "slug": "symbol",
+    "symbol": "xym",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Polymath",
+    "slug": "polymath-network",
+    "symbol": "poly",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

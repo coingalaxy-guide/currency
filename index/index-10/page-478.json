@@ -1,0 +1,112 @@
+[
+  {
+    "name": "AICORE",
+    "slug": "aicore",
+    "symbol": "aicore",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ShitGPT",
+    "slug": "shitgpt",
+    "symbol": "sgpt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Gem Pad",
+    "slug": "gem",
+    "symbol": "gems",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Galvan",
+    "slug": "galvan",
+    "symbol": "ize",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MetaWars",
+    "slug": "metawars",
+    "symbol": "wars",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Generational Wealth",
+    "slug": "generational-wealth",
+    "symbol": "gen",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Curio Governance",
+    "slug": "curio-governance",
+    "symbol": "cgt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "FelixCoin",
+    "slug": "felixcoin",
+    "symbol": "felix",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Evany",
+    "slug": "evany",
+    "symbol": "evy",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Solcial",
+    "slug": "solcial",
+    "symbol": "slcl",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

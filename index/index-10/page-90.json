@@ -1,0 +1,112 @@
+[
+  {
+    "name": "AMO Coin",
+    "slug": "amo-coin",
+    "symbol": "amo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ISKRA Token",
+    "slug": "iskra",
+    "symbol": "isk",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Dust Protocol",
+    "slug": "dust-protocol",
+    "symbol": "dust",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "XDB CHAIN",
+    "slug": "digitalbits",
+    "symbol": "xdb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TriumphX",
+    "slug": "triumphx",
+    "symbol": "trix",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Dimecoin",
+    "slug": "dimecoin",
+    "symbol": "dime",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bifrost",
+    "slug": "bifrost-bnc",
+    "symbol": "bnc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Blocksquare Token",
+    "slug": "blocksquare-token",
+    "symbol": "bst",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bitrock",
+    "slug": "bitrock",
+    "symbol": "brock",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Pluton",
+    "slug": "pluton",
+    "symbol": "plu",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

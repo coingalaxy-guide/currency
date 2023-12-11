@@ -1,0 +1,112 @@
+[
+  {
+    "name": "GoHelpFund",
+    "slug": "gohelpfund",
+    "symbol": "help",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Vulture Peak",
+    "slug": "vulture-peak",
+    "symbol": "vpk",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SoulSwap Finance",
+    "slug": "soulswap-finance",
+    "symbol": "soul",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NitroShiba",
+    "slug": "nitroshiba",
+    "symbol": "nishib",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Send",
+    "slug": "send-token",
+    "symbol": "send",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "New Cat",
+    "slug": "newcatcoin",
+    "symbol": "nct",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "EventChain",
+    "slug": "eventchain",
+    "symbol": "evc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Kitty Inu",
+    "slug": "kitty-inu",
+    "symbol": "kitty",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "IMMOPET Token",
+    "slug": "immopet-token",
+    "symbol": "impt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Solareum Wallet",
+    "slug": "solareum-wallet",
+    "symbol": "xsb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

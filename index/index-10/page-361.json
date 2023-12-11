@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Planet Sandbox",
+    "slug": "planet-sandbox",
+    "symbol": "psb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NetZero",
+    "slug": "nzero",
+    "symbol": "nzero",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "R-DEE Protocol",
+    "slug": "r-dee-protocol",
+    "symbol": "rdgx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "The Winkyverse",
+    "slug": "the-winkyverse",
+    "symbol": "wnk",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "AngelBlock",
+    "slug": "angelblock",
+    "symbol": "thol",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "iDypius",
+    "slug": "idefiyieldprotocol",
+    "symbol": "idyp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Akt.io",
+    "slug": "akt-io",
+    "symbol": "aktio",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Tongtongcoin",
+    "slug": "tongtongcoin",
+    "symbol": "ttc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Icy",
+    "slug": "icy",
+    "symbol": "ic",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Archethic",
+    "slug": "archethic",
+    "symbol": "uco",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

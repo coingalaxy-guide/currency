@@ -1,0 +1,112 @@
+[
+  {
+    "name": "FUNCH",
+    "slug": "funch-app",
+    "symbol": "funch",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "THORSwap",
+    "slug": "thorswap",
+    "symbol": "thor",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Epillo",
+    "slug": "epillo",
+    "symbol": "epillo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "GreenWorld",
+    "slug": "greenworld",
+    "symbol": "gwd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CLIMBERS",
+    "slug": "climbers",
+    "symbol": "mithril",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Agoric",
+    "slug": "agoric",
+    "symbol": "bld",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Dopex",
+    "slug": "dopex",
+    "symbol": "dpx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Silent Notary",
+    "slug": "silent-notary",
+    "symbol": "ubsn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Sonne Finance",
+    "slug": "sonne-finance",
+    "symbol": "sonne",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BOMB",
+    "slug": "bomb",
+    "symbol": "bomb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

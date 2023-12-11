@@ -1,0 +1,112 @@
+[
+  {
+    "name": "AddMeFast",
+    "slug": "addmefast",
+    "symbol": "amf",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "RunBlox",
+    "slug": "runblox",
+    "symbol": "rux",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Goerli ETH",
+    "slug": "goerli-eth",
+    "symbol": "geth",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MM Optimizer (Cronos)",
+    "slug": "mm-optimizer",
+    "symbol": "mmo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Octus Bridge",
+    "slug": "octus-bridge",
+    "symbol": "bridge",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "XSwap Protocol",
+    "slug": "xswap-protocol",
+    "symbol": "xsp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BankSocial",
+    "slug": "banksocial",
+    "symbol": "bsl",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Toad Killer",
+    "slug": "toad-killer",
+    "symbol": "$toad",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Crypto Raiders",
+    "slug": "crypto-raider",
+    "symbol": "raider",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Carnomaly",
+    "slug": "carnomaly-new",
+    "symbol": "carr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

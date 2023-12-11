@@ -1,0 +1,12 @@
+{
+  "name": "Ethereum",
+  "slug": "ethereum",
+  "symbol": "eth",
+  "stats": {
+    "contributors": 973,
+    "dependents": 15656,
+    "forks": 1840,
+    "commits": 14714
+  },
+  "repository": "https://github.com/ethereum/go-ethereum"
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Hawksight",
+    "slug": "hawksight",
+    "symbol": "hawk",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bitcoin Atom",
+    "slug": "bitcoin-atom",
+    "symbol": "bca",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "IMPT",
+    "slug": "impt",
+    "symbol": "impt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "AntiMatter Token",
+    "slug": "antimatter",
+    "symbol": "matter",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Era Swap",
+    "slug": "era-swap",
+    "symbol": "es",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Polaris Share",
+    "slug": "polaris-share",
+    "symbol": "pola",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Azit",
+    "slug": "azit",
+    "symbol": "azit",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Landshare",
+    "slug": "landshare",
+    "symbol": "land",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bitcoin Standard Hashrate Token",
+    "slug": "btc-standard-hashrate-token",
+    "symbol": "btcst",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cashaa",
+    "slug": "cashaa",
+    "symbol": "cas",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

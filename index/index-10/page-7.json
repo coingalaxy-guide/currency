@@ -1,0 +1,112 @@
+[
+  {
+    "name": "ORDI",
+    "slug": "ordi",
+    "symbol": "ordi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "First Digital USD",
+    "slug": "first-digital-usd",
+    "symbol": "fdusd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bitcoin SV",
+    "slug": "bitcoin-sv",
+    "symbol": "bsv",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Axie Infinity",
+    "slug": "axie-infinity",
+    "symbol": "axs",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Decentraland",
+    "slug": "decentraland",
+    "symbol": "mana",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "KuCoin Token",
+    "slug": "kucoin-token",
+    "symbol": "kcs",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "EOS",
+    "slug": "eos",
+    "symbol": "eos",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Tezos",
+    "slug": "tezos",
+    "symbol": "xtz",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Neo",
+    "slug": "neo",
+    "symbol": "neo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "IOTA",
+    "slug": "iota",
+    "symbol": "iota",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

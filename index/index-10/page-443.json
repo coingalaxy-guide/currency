@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Decred-Next",
+    "slug": "decred-next",
+    "symbol": "dcrn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Chaintools",
+    "slug": "chaintools",
+    "symbol": "ctls",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NKCL Classic",
+    "slug": "nkcl-classic",
+    "symbol": "nkclc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Snook",
+    "slug": "snook",
+    "symbol": "snk",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Energo",
+    "slug": "energo",
+    "symbol": "tsl",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Google Tokenized Stock Zipmex",
+    "slug": "google-tokenized-stock-zipmex",
+    "symbol": "googl",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SundaeSwap",
+    "slug": "sundaeswap",
+    "symbol": "sundae",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TON Token",
+    "slug": "tontoken",
+    "symbol": "ton",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Spintop",
+    "slug": "spintop",
+    "symbol": "spin",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Floki SafeMoon",
+    "slug": "floki-safemoon",
+    "symbol": "fsm",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

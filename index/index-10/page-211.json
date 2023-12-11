@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Signature Chain",
+    "slug": "signature-chain",
+    "symbol": "sign",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Tapx",
+    "slug": "tapmydata",
+    "symbol": "tap",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Azuki",
+    "slug": "azuki",
+    "symbol": "azuki",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Curio",
+    "slug": "curio",
+    "symbol": "cur",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "UniFarm",
+    "slug": "unifarm",
+    "symbol": "ufarm",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "The Coop Network",
+    "slug": "the-coop-network",
+    "symbol": "gmd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Goose Finance",
+    "slug": "goose-finance",
+    "symbol": "egg",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CoinAlpha",
+    "slug": "coinalpha",
+    "symbol": "alp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "UNICORN Token",
+    "slug": "unicorn-token",
+    "symbol": "uni",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "GamyFi Platform",
+    "slug": "gamyfi-platform",
+    "symbol": "gfx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

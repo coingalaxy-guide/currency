@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Synapse",
+    "slug": "synapse-2",
+    "symbol": "syn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Statter Network",
+    "slug": "statter-network",
+    "symbol": "stt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Multibit",
+    "slug": "multibit",
+    "symbol": "mubi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DeRace",
+    "slug": "derace",
+    "symbol": "derc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Router Protocol",
+    "slug": "router-protocol",
+    "symbol": "route",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Linear Finance",
+    "slug": "linear",
+    "symbol": "lina",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "RACA",
+    "slug": "radio-caca",
+    "symbol": "raca",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ARPA",
+    "slug": "arpa-chain",
+    "symbol": "arpa",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Onyxcoin",
+    "slug": "onyxcoin",
+    "symbol": "xcn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Steem Dollars",
+    "slug": "steem-dollars",
+    "symbol": "sbd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

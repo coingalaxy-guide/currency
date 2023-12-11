@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Jito Staked SOL",
+    "slug": "jito-staked-sol",
+    "symbol": "jitosol",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DekBox",
+    "slug": "dekbox",
+    "symbol": "dek",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Venus CAKE",
+    "slug": "venus-cake",
+    "symbol": "vcake",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "crvUSD",
+    "slug": "crvusd",
+    "symbol": "crvusd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BOB",
+    "slug": "bob1",
+    "symbol": "bob",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SATS (Ordinals)",
+    "slug": "sats-ordinals",
+    "symbol": "sats",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ark Rivals",
+    "slug": "ark-rivals",
+    "symbol": "arkn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Structure finance",
+    "slug": "structure-finance",
+    "symbol": "stf",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Connext Network",
+    "slug": "connext",
+    "symbol": "next",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ENTERBUTTON",
+    "slug": "enterbutton",
+    "symbol": "entc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

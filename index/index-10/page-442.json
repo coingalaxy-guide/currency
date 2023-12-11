@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Outter Finance",
+    "slug": "outter-finance",
+    "symbol": "out",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Parallel Finance",
+    "slug": "parallel-finance",
+    "symbol": "para",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Gays Inu",
+    "slug": "gays-inu",
+    "symbol": "lgbtq",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DogCoin",
+    "slug": "dogcoin",
+    "symbol": "dogs",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Dope Wars Paper",
+    "slug": "dope-wars-paper",
+    "symbol": "paper",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "AmazingTeamDAO",
+    "slug": "amazingteamdao",
+    "symbol": "amazingteam",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "AVATA Network",
+    "slug": "avata-network",
+    "symbol": "avat",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Espento",
+    "slug": "espento",
+    "symbol": "spent",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Moonlana",
+    "slug": "moonlana",
+    "symbol": "mola",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "VinDax Coin",
+    "slug": "vindax-coin",
+    "symbol": "vd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "WEMIX",
+    "slug": "wemix",
+    "symbol": "wemix",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "HEX",
+    "slug": "hex",
+    "symbol": "hex",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cheelee",
+    "slug": "cheelee",
+    "symbol": "cheel",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Frax",
+    "slug": "frax",
+    "symbol": "frax",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wrapped BNB",
+    "slug": "wbnb",
+    "symbol": "wbnb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Rollbit Coin",
+    "slug": "rollbit-coin",
+    "symbol": "rlb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Radix",
+    "slug": "radix-protocol",
+    "symbol": "xrd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Coinbase Wrapped Staked ETH",
+    "slug": "coinbase-wrapped-staked-eth",
+    "symbol": "cbeth",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Huobi BTC",
+    "slug": "huobi-btc",
+    "symbol": "hbtc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Venus BNB",
+    "slug": "venus-bnb",
+    "symbol": "vbnb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

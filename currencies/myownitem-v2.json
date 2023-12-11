@@ -1,0 +1,11 @@
+{
+  "name": "MyOwnItem",
+  "slug": "myownitem-v2",
+  "symbol": "moi",
+  "stats": {
+    "contributors": 0,
+    "dependents": 0,
+    "forks": 0,
+    "commits": 0
+  }
+}

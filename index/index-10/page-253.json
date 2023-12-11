@@ -1,0 +1,112 @@
+[
+  {
+    "name": "TRAC (Ordinals)",
+    "slug": "trac",
+    "symbol": "trac",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Sponge",
+    "slug": "sponge",
+    "symbol": "$sponge",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Neo Tokyo",
+    "slug": "neo-tokyo",
+    "symbol": "bytes",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "EscoinToken",
+    "slug": "escointoken",
+    "symbol": "elg",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ArbiPad",
+    "slug": "arbipad",
+    "symbol": "arbi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Iron Fish",
+    "slug": "iron-fish",
+    "symbol": "iron",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "USK",
+    "slug": "usk",
+    "symbol": "usk",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Libra Incentix",
+    "slug": "libra-incentix",
+    "symbol": "lixx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BITCOIN ADDITIONAL",
+    "slug": "bitcoin-additional",
+    "symbol": "btca",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BreederDAO",
+    "slug": "breederdao",
+    "symbol": "breed",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

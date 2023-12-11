@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Sperax USD",
+    "slug": "sperax-usd",
+    "symbol": "usds",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "The Secret Coin",
+    "slug": "the-secret-coin",
+    "symbol": "tsc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Element.Black",
+    "slug": "element-black",
+    "symbol": "elt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CryptoFranc",
+    "slug": "cryptofranc",
+    "symbol": "xchf",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CoW Protocol",
+    "slug": "cow-protocol",
+    "symbol": "cow",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Digital Swiss Franc",
+    "slug": "digital-swis-franc",
+    "symbol": "dsfr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Burn Floki",
+    "slug": "burn-floki",
+    "symbol": "bfloki",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Trinity Network Credit",
+    "slug": "trinity-network-credit",
+    "symbol": "tnc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Minto",
+    "slug": "minto",
+    "symbol": "btcmt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bitxor",
+    "slug": "bitxor",
+    "symbol": "bxr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

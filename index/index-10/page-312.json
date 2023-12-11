@@ -1,0 +1,112 @@
+[
+  {
+    "name": "IPMB",
+    "slug": "ipmb",
+    "symbol": "ipmb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "GOLCOIN",
+    "slug": "golcoin",
+    "symbol": "golc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Panther Protocol",
+    "slug": "panther-protocol",
+    "symbol": "zkp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Megaton Finance",
+    "slug": "megaton-finance",
+    "symbol": "mega",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Carmin",
+    "slug": "carmin-labs",
+    "symbol": "carmin",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "EFK Token",
+    "slug": "efk-token",
+    "symbol": "efk",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "UkraineDAO Flag NFT",
+    "slug": "ukrainedao-flag-nft",
+    "symbol": "love",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Veil",
+    "slug": "veil-exchange",
+    "symbol": "veil",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "FintraDao",
+    "slug": "fintradao",
+    "symbol": "fdc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "KONPAY",
+    "slug": "konpay",
+    "symbol": "kon",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Franklin",
+    "slug": "franklin",
+    "symbol": "fly",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Lucky Coin",
+    "slug": "lucky-coin",
+    "symbol": "lkc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BNBDOWN",
+    "slug": "bnbdown",
+    "symbol": "bnbdown",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "D3D Social",
+    "slug": "d3d-social",
+    "symbol": "d3d",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Whole Earth Coin",
+    "slug": "whole-earth-coin",
+    "symbol": "wec",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TARALITY",
+    "slug": "tarality-v2",
+    "symbol": "taral",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Fileshare Platform",
+    "slug": "fileshare-platform",
+    "symbol": "fsc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Arbitrove Protocol",
+    "slug": "nitro-cartel",
+    "symbol": "trove",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bullieverse",
+    "slug": "bullieverse",
+    "symbol": "$bull",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Neoxa",
+    "slug": "neoxa",
+    "symbol": "neox",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

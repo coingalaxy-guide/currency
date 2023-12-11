@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Lucky7",
+    "slug": "lucky7",
+    "symbol": "7",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Black Whale",
+    "slug": "black-whale",
+    "symbol": "xxx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CruxDecussata",
+    "slug": "x-com-erc",
+    "symbol": "x",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Sui (IOU)",
+    "slug": "sui-iou",
+    "symbol": "sui",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Morra",
+    "slug": "morra",
+    "symbol": "morra",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Human",
+    "slug": "human",
+    "symbol": "hmt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "0x Leverage",
+    "slug": "0x-leverage",
+    "symbol": "0xl",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SaucerSwap",
+    "slug": "saucerswap",
+    "symbol": "sauce",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Smarty Pay",
+    "slug": "smarty-pay",
+    "symbol": "spy",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Hurricane NFT",
+    "slug": "hurricane-nft",
+    "symbol": "nhct",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

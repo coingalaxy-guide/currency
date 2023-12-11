@@ -1,0 +1,112 @@
+[
+  {
+    "name": "CONTRACOIN",
+    "slug": "contracoin",
+    "symbol": "ctcn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ghost",
+    "slug": "ghost",
+    "symbol": "ghost",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "My DeFi Pet",
+    "slug": "my-defi-pet",
+    "symbol": "dpet",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Niftyx Protocol",
+    "slug": "niftyx-protocol",
+    "symbol": "shroom",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BeNFT Solutions",
+    "slug": "benft-solutions",
+    "symbol": "beai",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Pokemon Play",
+    "slug": "poke-play",
+    "symbol": "ppc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TOWER",
+    "slug": "tower-token",
+    "symbol": "tower",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BiFi",
+    "slug": "bifi",
+    "symbol": "bifi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Carbon",
+    "slug": "carbon",
+    "symbol": "crbn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "GameCredits",
+    "slug": "gamecredits",
+    "symbol": "game",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

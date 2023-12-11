@@ -1,0 +1,112 @@
+[
+  {
+    "name": "EthereumPoW",
+    "slug": "ethereum-pow",
+    "symbol": "ethw",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Mask Network",
+    "slug": "mask-network",
+    "symbol": "mask",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SushiSwap",
+    "slug": "sushiswap",
+    "symbol": "sushi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MX TOKEN",
+    "slug": "mx-token",
+    "symbol": "mx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Theta Fuel",
+    "slug": "theta-fuel",
+    "symbol": "tfuel",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bitcoin Gold",
+    "slug": "bitcoin-gold",
+    "symbol": "btg",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "IoTeX",
+    "slug": "iotex",
+    "symbol": "iotx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "JUST",
+    "slug": "just",
+    "symbol": "jst",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "yearn.finance",
+    "slug": "yearn-finance",
+    "symbol": "yfi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Chia",
+    "slug": "chia-network",
+    "symbol": "xch",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

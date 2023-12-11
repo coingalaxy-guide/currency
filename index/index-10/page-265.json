@@ -1,0 +1,112 @@
+[
+  {
+    "name": "TokenSight",
+    "slug": "tokensight",
+    "symbol": "tkst",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Kyberdyne",
+    "slug": "kyberdyne",
+    "symbol": "kbd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MantaDAO",
+    "slug": "mantadao",
+    "symbol": "mnta",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Propbase",
+    "slug": "propbase",
+    "symbol": "props",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "HAY",
+    "slug": "helio-money",
+    "symbol": "hay",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "AI CODE",
+    "slug": "ai-code",
+    "symbol": "aicode",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Indigo Protocol - iUSD",
+    "slug": "indigo-protocol-iusd",
+    "symbol": "iusd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Polkacity",
+    "slug": "polkacity",
+    "symbol": "polc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Calcium",
+    "slug": "calcium",
+    "symbol": "cal",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NANA Token",
+    "slug": "nana-token",
+    "symbol": "nana",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

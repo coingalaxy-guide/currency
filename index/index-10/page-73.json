@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Carbon browser",
+    "slug": "carbon-browser",
+    "symbol": "csix",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "AirSwap",
+    "slug": "airswap",
+    "symbol": "ast",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ferrum Network",
+    "slug": "ferrum-network",
+    "symbol": "frm",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ParagonsDAO",
+    "slug": "paragonsdao",
+    "symbol": "pdt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Hegic",
+    "slug": "hegic",
+    "symbol": "hegic",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Polytrade",
+    "slug": "polytrade",
+    "symbol": "trade",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ONBUFF",
+    "slug": "onbuff",
+    "symbol": "onit",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Manchester City Fan Token",
+    "slug": "manchester-city-fan-token",
+    "symbol": "city",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Defigram",
+    "slug": "defigram",
+    "symbol": "dfg",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "RFOX",
+    "slug": "redfox-labs",
+    "symbol": "rfox",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Thetan Coin",
+    "slug": "thetan-coin",
+    "symbol": "thc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DAO Invest",
+    "slug": "dao-invest",
+    "symbol": "vest",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "The CocktailBar",
+    "slug": "cocktail-bar",
+    "symbol": "coc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Your Future Exchange",
+    "slug": "your-future-exchange",
+    "symbol": "yfx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BOX",
+    "slug": "box",
+    "symbol": "box",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Heroes & Empires",
+    "slug": "heroes-and-empires",
+    "symbol": "he",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Shockwaves",
+    "slug": "neuros",
+    "symbol": "neuros",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "God Coin",
+    "slug": "god-coin",
+    "symbol": "god",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cindrum",
+    "slug": "cindrum",
+    "symbol": "cind",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "GoldFinX",
+    "slug": "goldfinx",
+    "symbol": "g1x",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

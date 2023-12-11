@@ -1,0 +1,112 @@
+[
+  {
+    "name": "The Nemesis",
+    "slug": "the-nemesis",
+    "symbol": "nems",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "FourCoin",
+    "slug": "fourcoin",
+    "symbol": "four",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Onchain AI",
+    "slug": "onchain-ai",
+    "symbol": "ocai",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DinoLFG",
+    "slug": "dinolfg",
+    "symbol": "dino",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Grape",
+    "slug": "grape",
+    "symbol": "grp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TAKI",
+    "slug": "taki",
+    "symbol": "taki",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Faith Tribe",
+    "slug": "faith-tribe",
+    "symbol": "ftrb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Fine",
+    "slug": "fine-erc",
+    "symbol": "fine",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ecoterra",
+    "slug": "ecoterra",
+    "symbol": "ecoterra",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "XRUN",
+    "slug": "xrun",
+    "symbol": "xrun",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Ethereum Express",
+    "slug": "ethereum-express",
+    "symbol": "ete",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bitkub Coin",
+    "slug": "bitkub-coin",
+    "symbol": "kub",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Paribu Net",
+    "slug": "paribu-net",
+    "symbol": "prb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Not Financial Advice",
+    "slug": "not-financial-advice",
+    "symbol": "nfai",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Hippo Wallet Token (HPO)",
+    "slug": "hippo-wallet-token",
+    "symbol": "hpo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Tether Avalanche Bridged",
+    "slug": "tether-avalanche-bridged",
+    "symbol": "usdte",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "spurdo",
+    "slug": "spurdo",
+    "symbol": "spurdo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Massive Protocol",
+    "slug": "massive-protocol",
+    "symbol": "mav",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cryptonex",
+    "slug": "cryptonex",
+    "symbol": "cnx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Tipcoin",
+    "slug": "tipcoineth",
+    "symbol": "tip",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "name": "Wiki Cat",
+  "slug": "wiki-cat",
+  "symbol": "wkc",
+  "stats": {
+    "contributors": 0,
+    "dependents": 0,
+    "forks": 0,
+    "commits": 0
+  }
+}

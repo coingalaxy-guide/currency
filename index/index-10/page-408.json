@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Pine",
+    "slug": "pine",
+    "symbol": "pine",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Timeless",
+    "slug": "timeless",
+    "symbol": "lit",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SHEESH",
+    "slug": "sheesh",
+    "symbol": "shs",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cardiocoin",
+    "slug": "cardiocoin",
+    "symbol": "crdc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "zkDoge",
+    "slug": "zkdoge",
+    "symbol": "zkdoge",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Torah Network",
+    "slug": "torah-network",
+    "symbol": "vp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Poollotto.finance",
+    "slug": "poollotto-finance",
+    "symbol": "plt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "UMMA Token",
+    "slug": "umma-token",
+    "symbol": "umma",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Staked NEAR",
+    "slug": "staked-near",
+    "symbol": "stnear",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TosDis",
+    "slug": "tosdis",
+    "symbol": "dis",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

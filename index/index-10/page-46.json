@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Function X",
+    "slug": "function-x",
+    "symbol": "fx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Constellation",
+    "slug": "constellation",
+    "symbol": "dag",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Efinity Token",
+    "slug": "efinity",
+    "symbol": "efi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Polygon Ecosystem Token",
+    "slug": "polygon-ecosystem-token",
+    "symbol": "pol",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SIDUS",
+    "slug": "sidus",
+    "symbol": "sidus",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Mdex",
+    "slug": "mdex",
+    "symbol": "mdx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TrueFi",
+    "slug": "truefi-token",
+    "symbol": "tru",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Acala Token",
+    "slug": "acala",
+    "symbol": "aca",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Alien Worlds",
+    "slug": "alien-worlds",
+    "symbol": "tlm",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Assemble Protocol",
+    "slug": "assemble-protocol",
+    "symbol": "asm",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

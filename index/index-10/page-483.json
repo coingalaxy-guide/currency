@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Alpha Gardeners",
+    "slug": "alpha-gardeners",
+    "symbol": "ag",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CYBRIA",
+    "slug": "cybria",
+    "symbol": "cyba",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "xAI",
+    "slug": "xai-token",
+    "symbol": "xai",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Notional Finance",
+    "slug": "notional-finance",
+    "symbol": "note",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "VARC",
+    "slug": "varc",
+    "symbol": "varc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TrustNFT",
+    "slug": "trustnft",
+    "symbol": "trustnft",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Pepe Coin",
+    "slug": "pepe-coin-bsc2",
+    "symbol": "pepe",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "UniDex",
+    "slug": "unidex",
+    "symbol": "unidx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Snowbank",
+    "slug": "snowbank",
+    "symbol": "sb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Grok",
+    "slug": "grok1",
+    "symbol": "xai",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

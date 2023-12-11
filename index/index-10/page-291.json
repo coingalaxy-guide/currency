@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Aquarius",
+    "slug": "aquarius",
+    "symbol": "aqua",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ONINO",
+    "slug": "oni-token",
+    "symbol": "oni",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Limoverse",
+    "slug": "limoverse",
+    "symbol": "limo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Janex",
+    "slug": "janex",
+    "symbol": "jnx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Rebuschain",
+    "slug": "rebuschain",
+    "symbol": "rebus",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Pomerium",
+    "slug": "pomerium-ecosystem-token",
+    "symbol": "pmg",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Allbridge",
+    "slug": "allbridge",
+    "symbol": "abr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Mean DAO",
+    "slug": "meanfi",
+    "symbol": "mean",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Kondux",
+    "slug": "kondux",
+    "symbol": "kndx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Baby Shiba Inu",
+    "slug": "baby-shiba-inu-erc",
+    "symbol": "babyshib",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

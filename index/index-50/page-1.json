@@ -1,0 +1,552 @@
+[
+  {
+    "name": "Bitcoin",
+    "slug": "bitcoin",
+    "symbol": "btc",
+    "stats": {
+      "contributors": 928,
+      "dependents": 19,
+      "forks": 1680,
+      "commits": 39611
+    }
+  },
+  {
+    "name": "Ethereum",
+    "slug": "ethereum",
+    "symbol": "eth",
+    "stats": {
+      "contributors": 973,
+      "dependents": 15656,
+      "forks": 1840,
+      "commits": 14714
+    }
+  },
+  {
+    "name": "Tether USDt",
+    "slug": "tether",
+    "symbol": "usdt",
+    "stats": {
+      "contributors": 1,
+      "dependents": 0,
+      "forks": 5,
+      "commits": 3
+    }
+  },
+  {
+    "name": "BNB",
+    "slug": "bnb",
+    "symbol": "bnb",
+    "stats": {
+      "contributors": 429,
+      "dependents": 3,
+      "forks": 277,
+      "commits": 15196
+    }
+  },
+  {
+    "name": "XRP",
+    "slug": "xrp",
+    "symbol": "xrp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Solana",
+    "slug": "solana",
+    "symbol": "sol",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "USDC",
+    "slug": "usd-coin",
+    "symbol": "usdc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cardano",
+    "slug": "cardano",
+    "symbol": "ada",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Dogecoin",
+    "slug": "dogecoin",
+    "symbol": "doge",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Avalanche",
+    "slug": "avalanche",
+    "symbol": "avax",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TRON",
+    "slug": "tron",
+    "symbol": "trx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Polkadot",
+    "slug": "polkadot-new",
+    "symbol": "dot",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Chainlink",
+    "slug": "chainlink",
+    "symbol": "link",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Polygon",
+    "slug": "polygon",
+    "symbol": "matic",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Toncoin",
+    "slug": "toncoin",
+    "symbol": "ton",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Shiba Inu",
+    "slug": "shiba-inu",
+    "symbol": "shib",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Litecoin",
+    "slug": "litecoin",
+    "symbol": "ltc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Dai",
+    "slug": "multi-collateral-dai",
+    "symbol": "dai",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bitcoin Cash",
+    "slug": "bitcoin-cash",
+    "symbol": "bch",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cosmos",
+    "slug": "cosmos",
+    "symbol": "atom",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Uniswap",
+    "slug": "uniswap",
+    "symbol": "uni",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Stellar",
+    "slug": "stellar",
+    "symbol": "xlm",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "OKB",
+    "slug": "okb",
+    "symbol": "okb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "UNUS SED LEO",
+    "slug": "unus-sed-leo",
+    "symbol": "leo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Monero",
+    "slug": "monero",
+    "symbol": "xmr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ethereum Classic",
+    "slug": "ethereum-classic",
+    "symbol": "etc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Kaspa",
+    "slug": "kaspa",
+    "symbol": "kas",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TrueUSD",
+    "slug": "trueusd",
+    "symbol": "tusd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cronos",
+    "slug": "cronos",
+    "symbol": "cro",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Hedera",
+    "slug": "hedera",
+    "symbol": "hbar",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Filecoin",
+    "slug": "filecoin",
+    "symbol": "fil",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NEAR Protocol",
+    "slug": "near-protocol",
+    "symbol": "near",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Internet Computer",
+    "slug": "internet-computer",
+    "symbol": "icp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Immutable",
+    "slug": "immutable-x",
+    "symbol": "imx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Aptos",
+    "slug": "aptos",
+    "symbol": "apt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "THORChain",
+    "slug": "thorchain",
+    "symbol": "rune",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Lido DAO",
+    "slug": "lido-dao",
+    "symbol": "ldo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Optimism",
+    "slug": "optimism-ethereum",
+    "symbol": "op",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "VeChain",
+    "slug": "vechain",
+    "symbol": "vet",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Mantle",
+    "slug": "mantle",
+    "symbol": "mnt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "FTX Token",
+    "slug": "ftx-token",
+    "symbol": "ftt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MultiversX",
+    "slug": "multiversx-egld",
+    "symbol": "egld",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Algorand",
+    "slug": "algorand",
+    "symbol": "algo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Injective",
+    "slug": "injective",
+    "symbol": "inj",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "The Graph",
+    "slug": "the-graph",
+    "symbol": "grt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BUSD",
+    "slug": "binance-usd",
+    "symbol": "busd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Arbitrum",
+    "slug": "arbitrum",
+    "symbol": "arb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Aave",
+    "slug": "aave",
+    "symbol": "aave",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Render",
+    "slug": "render",
+    "symbol": "rndr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Stacks",
+    "slug": "stacks",
+    "symbol": "stx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

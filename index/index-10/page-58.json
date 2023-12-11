@@ -1,0 +1,112 @@
+[
+  {
+    "name": "DIA",
+    "slug": "dia",
+    "symbol": "dia",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Aura Finance",
+    "slug": "aura-finance",
+    "symbol": "aura",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Sentinel Protocol",
+    "slug": "sentinel-protocol",
+    "symbol": "upp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NuNet",
+    "slug": "nunet",
+    "symbol": "ntx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Komodo",
+    "slug": "komodo",
+    "symbol": "kmd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Litentry",
+    "slug": "litentry",
+    "symbol": "lit",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Goldfinch",
+    "slug": "goldfinch-protocol",
+    "symbol": "gfi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "VAIOT",
+    "slug": "vaiot",
+    "symbol": "vai",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Velas",
+    "slug": "velas",
+    "symbol": "vlx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Turbo",
+    "slug": "turbo",
+    "symbol": "turbo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

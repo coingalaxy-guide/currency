@@ -1,0 +1,112 @@
+[
+  {
+    "name": "IDEX",
+    "slug": "idex",
+    "symbol": "idex",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "LeverFi",
+    "slug": "lever",
+    "symbol": "lever",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Marinade Staked SOL",
+    "slug": "marinade",
+    "symbol": "msol",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Contentos",
+    "slug": "contentos",
+    "symbol": "cos",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Alpha Quark Token",
+    "slug": "alpha-quark-token",
+    "symbol": "aqt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Banana Gun",
+    "slug": "banana-gun",
+    "symbol": "banana",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SaitaChain Coin",
+    "slug": "saitama-inu-new",
+    "symbol": "stc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ArbDoge AI",
+    "slug": "arbdoge-ai",
+    "symbol": "aidoge",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "IRISnet",
+    "slug": "irisnet",
+    "symbol": "iris",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Moss Coin",
+    "slug": "moss-coin",
+    "symbol": "moc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

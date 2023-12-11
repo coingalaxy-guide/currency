@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Xodex",
+    "slug": "xodex",
+    "symbol": "xodex",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Aree Shards",
+    "slug": "aree-shards",
+    "symbol": "aes",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "$BSV (Ordinals)",
+    "slug": "bsv-brc-20",
+    "symbol": "$bsv",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "zkSync Labs",
+    "slug": "zksync-labs",
+    "symbol": "zklab",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Sanko GameCorp",
+    "slug": "sanko-game-corp",
+    "symbol": "dmt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "GAMER",
+    "slug": "gamer",
+    "symbol": "gmr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Streakk",
+    "slug": "streakk",
+    "symbol": "stkk",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MT Token",
+    "slug": "mt-tower",
+    "symbol": "mt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "KENKA METAVERSE",
+    "slug": "kenka-metaverse",
+    "symbol": "kenka",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Blockasset",
+    "slug": "blockasset",
+    "symbol": "block",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

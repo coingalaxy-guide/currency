@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Burency",
+    "slug": "burency",
+    "symbol": "buy",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "KCCPAD",
+    "slug": "kccpad",
+    "symbol": "kccpad",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CRYPTO20",
+    "slug": "c20",
+    "symbol": "c20",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Mithril",
+    "slug": "mithril",
+    "symbol": "mith",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PUMLx",
+    "slug": "pumlx",
+    "symbol": "pumlx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "FRAKT Token",
+    "slug": "frakt-token",
+    "symbol": "frkt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Football World Community",
+    "slug": "qatar-2022-token",
+    "symbol": "fwc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Kattana",
+    "slug": "kattana",
+    "symbol": "ktn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Hakka.Finance",
+    "slug": "hakka-finance",
+    "symbol": "hakka",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "FidexToken",
+    "slug": "fidex-token",
+    "symbol": "fex",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Aston Villa Fan Token",
+    "slug": "aston-villa-fan-token",
+    "symbol": "avl",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Minted",
+    "slug": "minted",
+    "symbol": "mtd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Gulf Coin",
+    "slug": "gulf-coin",
+    "symbol": "gulf",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Geojam Token",
+    "slug": "geojam-token",
+    "symbol": "jam",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Obyte",
+    "slug": "obyte",
+    "symbol": "gbyte",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Aimedis (new)",
+    "slug": "aimedis-new",
+    "symbol": "aimx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Venus LTC",
+    "slug": "venus-ltc",
+    "symbol": "vltc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Darwinia Network",
+    "slug": "darwinia-network",
+    "symbol": "ring",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SwftCoin",
+    "slug": "swftcoin",
+    "symbol": "swftc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ScPrime",
+    "slug": "scprime",
+    "symbol": "scp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

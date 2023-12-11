@@ -1,0 +1,112 @@
+[
+  {
+    "name": "ZKSpace",
+    "slug": "zkswap",
+    "symbol": "zks",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Beam",
+    "slug": "beam",
+    "symbol": "beam",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Fusion",
+    "slug": "fusion",
+    "symbol": "fsn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Yield App",
+    "slug": "yield-app",
+    "symbol": "yld",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Captain Tsubasa",
+    "slug": "captain-tsubasa",
+    "symbol": "tsugt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "dForce",
+    "slug": "dforce",
+    "symbol": "df",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Saito",
+    "slug": "saito",
+    "symbol": "saito",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "VITE",
+    "slug": "vite",
+    "symbol": "vite",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TrustSwap",
+    "slug": "trustswap",
+    "symbol": "swap",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "S.S. Lazio Fan Token",
+    "slug": "lazio-fan-token",
+    "symbol": "lazio",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

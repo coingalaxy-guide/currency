@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Anchored Coins AEUR",
+    "slug": "anchored-coins-aeur",
+    "symbol": "aeur",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Aergo",
+    "slug": "aergo",
+    "symbol": "aergo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Hifi Finance",
+    "slug": "hifi-finance-new",
+    "symbol": "hifi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Gomining",
+    "slug": "gomining-token",
+    "symbol": "gmt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CyberConnect",
+    "slug": "cyberconnect",
+    "symbol": "cyber",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bifrost",
+    "slug": "bifrost",
+    "symbol": "bfc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Guild of Guardians",
+    "slug": "guild-of-guardians",
+    "symbol": "gog",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Sun (New)",
+    "slug": "sun-token",
+    "symbol": "sun",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Maple",
+    "slug": "maple",
+    "symbol": "mpl",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SuperRare",
+    "slug": "superrare",
+    "symbol": "rare",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

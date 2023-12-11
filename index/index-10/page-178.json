@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Plasma Finance",
+    "slug": "plasma-finance",
+    "symbol": "ppay",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Databroker",
+    "slug": "databroker",
+    "symbol": "dtx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ruff",
+    "slug": "ruff",
+    "symbol": "ruff",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "EasyFi",
+    "slug": "easyfi",
+    "symbol": "ez",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Traxx",
+    "slug": "traxx",
+    "symbol": "traxx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PymeDAO",
+    "slug": "pymedao",
+    "symbol": "pyme",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DecentraWeb",
+    "slug": "decentraweb",
+    "symbol": "dweb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Eden",
+    "slug": "eden-network",
+    "symbol": "eden",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Sint-Truidense Voetbalvereniging Fan Token",
+    "slug": "sint-truidense-voetbalvereniging",
+    "symbol": "stv",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Shirtum",
+    "slug": "shirtum",
+    "symbol": "shi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

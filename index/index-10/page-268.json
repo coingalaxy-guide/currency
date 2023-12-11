@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Raft",
+    "slug": "raft",
+    "symbol": "raft",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "GetKicks",
+    "slug": "getkicks",
+    "symbol": "kicks",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wrapped Conflux",
+    "slug": "wrapped-conflux-network",
+    "symbol": "wcfx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Medicle",
+    "slug": "medicle",
+    "symbol": "mdi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Talken",
+    "slug": "talken",
+    "symbol": "talk",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BlueSparrow Token",
+    "slug": "bluesparrow-token-new",
+    "symbol": "bluesparrow",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "CPCoin",
+    "slug": "cpcoin",
+    "symbol": "cpc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Kingdomverse",
+    "slug": "kingdomverse",
+    "symbol": "king",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Medieval Empires",
+    "slug": "medieval-empires",
+    "symbol": "mee",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Colony",
+    "slug": "colony",
+    "symbol": "cly",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

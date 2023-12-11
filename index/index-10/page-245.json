@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Venus TUSD",
+    "slug": "venus-tusd",
+    "symbol": "vtusd",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Dawg Coin",
+    "slug": "dawg-coin",
+    "symbol": "dawg",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MetFi",
+    "slug": "metfi2",
+    "symbol": "metfi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ECOMI",
+    "slug": "ecomi-new",
+    "symbol": "omi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cornucopias",
+    "slug": "cornucopias",
+    "symbol": "copi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "LIQ Protocol",
+    "slug": "liq-protocol",
+    "symbol": "liq",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "sudoswap",
+    "slug": "sudoswap",
+    "symbol": "sudo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NALS (Ordinals)",
+    "slug": "nals",
+    "symbol": "nals",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "GROK",
+    "slug": "grok-bsc",
+    "symbol": "grok",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wrapped Near",
+    "slug": "wrapped-near",
+    "symbol": "wnear",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "KIZUNA",
+    "slug": "kizuna",
+    "symbol": "kizuna",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Starly",
+    "slug": "starly",
+    "symbol": "$starly",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Friend3",
+    "slug": "friend3",
+    "symbol": "f3",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "holoride",
+    "slug": "holoride",
+    "symbol": "ride",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Vyvo Coin",
+    "slug": "vyvo-smart-chain",
+    "symbol": "vsc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "FairERC20",
+    "slug": "ferc",
+    "symbol": "ferc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bitcoin 2.0",
+    "slug": "bitcoin-2",
+    "symbol": "btc2.0",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Stake DAO CRV",
+    "slug": "stake-dao-crv",
+    "symbol": "sdcrv",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Saber",
+    "slug": "saber",
+    "symbol": "sbr",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Alkimi",
+    "slug": "alkimi",
+    "symbol": "$ads",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

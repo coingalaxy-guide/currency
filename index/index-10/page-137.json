@@ -1,0 +1,112 @@
+[
+  {
+    "name": "ETHPad",
+    "slug": "ethpad",
+    "symbol": "ethpad",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ZeroSwap",
+    "slug": "zeroswap",
+    "symbol": "zee",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Green Ben",
+    "slug": "green-ben",
+    "symbol": "eben",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Woonkly Power",
+    "slug": "woonkly-power",
+    "symbol": "woop",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Razor Network",
+    "slug": "razor-network",
+    "symbol": "razor",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "PEAKDEFI",
+    "slug": "peakdefi",
+    "symbol": "peak",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SifChain",
+    "slug": "sifchain",
+    "symbol": "erowan",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "SORA",
+    "slug": "sora",
+    "symbol": "xor",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Brazil National Football Team Fan Token",
+    "slug": "brazil-national-football-team-fan-token",
+    "symbol": "bft",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Super Zero Protocol",
+    "slug": "super-zero-protocol",
+    "symbol": "sero",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

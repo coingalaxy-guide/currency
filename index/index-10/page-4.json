@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Filecoin",
+    "slug": "filecoin",
+    "symbol": "fil",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NEAR Protocol",
+    "slug": "near-protocol",
+    "symbol": "near",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Internet Computer",
+    "slug": "internet-computer",
+    "symbol": "icp",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Immutable",
+    "slug": "immutable-x",
+    "symbol": "imx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Aptos",
+    "slug": "aptos",
+    "symbol": "apt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "THORChain",
+    "slug": "thorchain",
+    "symbol": "rune",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Lido DAO",
+    "slug": "lido-dao",
+    "symbol": "ldo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Optimism",
+    "slug": "optimism-ethereum",
+    "symbol": "op",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "VeChain",
+    "slug": "vechain",
+    "symbol": "vet",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Mantle",
+    "slug": "mantle",
+    "symbol": "mnt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

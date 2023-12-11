@@ -1,0 +1,112 @@
+[
+  {
+    "name": "IndiGG",
+    "slug": "indigg",
+    "symbol": "indi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Winter",
+    "slug": "winter",
+    "symbol": "winter",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "The Three Kingdoms",
+    "slug": "the-three-kingdoms",
+    "symbol": "ttk",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Lever Token",
+    "slug": "lever-token",
+    "symbol": "lev",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Cat",
+    "slug": "cat-cat-token",
+    "symbol": "cat",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Yield Magnet",
+    "slug": "sigil-finance",
+    "symbol": "magnet",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Crypto Holding Frank Token",
+    "slug": "crypto-holding-frank-token",
+    "symbol": "chft",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Genshiro",
+    "slug": "genshiro",
+    "symbol": "gens",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "NexAI",
+    "slug": "nexai",
+    "symbol": "nex",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Baskonia Fan Token",
+    "slug": "baskonia-fan-token",
+    "symbol": "bkn",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

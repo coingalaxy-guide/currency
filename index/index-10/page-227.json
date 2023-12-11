@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Cetus Protocol",
+    "slug": "cetus-protocol",
+    "symbol": "cetus",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "XT.com Token",
+    "slug": "xtcom-token",
+    "symbol": "xt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bridged USDC",
+    "slug": "usd-base-coin",
+    "symbol": "usdbc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "4-CHAN",
+    "slug": "4-chan-token",
+    "symbol": "4chan",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wrapped CRO",
+    "slug": "wrapped-cro",
+    "symbol": "wcro",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Ultima",
+    "slug": "ultima",
+    "symbol": "ultima",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Venus MATIC",
+    "slug": "venus-matic",
+    "symbol": "vmatic",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Autonolas",
+    "slug": "autonolas",
+    "symbol": "olas",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Guacamole",
+    "slug": "guac",
+    "symbol": "guac",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "IL CAPO OF CRYPTO",
+    "slug": "il-capo-of-crypto",
+    "symbol": "capo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

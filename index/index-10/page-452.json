@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Silver",
+    "slug": "silver",
+    "symbol": "kag",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Rodeo Finance",
+    "slug": "rodeo-finance-xyz",
+    "symbol": "rdo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "XAI",
+    "slug": "xaielonmusk-xyz",
+    "symbol": "x",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Pepe Potato",
+    "slug": "pepe-potato",
+    "symbol": "$mrpepe",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Bit Hotel",
+    "slug": "bit-hotel",
+    "symbol": "bth",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "VAPE",
+    "slug": "vaporfi",
+    "symbol": "vape",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BIM",
+    "slug": "bim",
+    "symbol": "bim",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "YAM V1",
+    "slug": "yamv1",
+    "symbol": "yam",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "HarryPotterTrumpHomerSimpson777Inu",
+    "slug": "harrypottertrumphomersimpson777inu",
+    "symbol": "ethereum",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "BankerCoinAda",
+    "slug": "bankercoinada",
+    "symbol": "bank",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "BENQI",
+    "slug": "benqi",
+    "symbol": "qi",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ABBC Coin",
+    "slug": "abbc-coin",
+    "symbol": "abbc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "UniBot",
+    "slug": "unibot-eth",
+    "symbol": "unibot",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Sologenic",
+    "slug": "sologenic",
+    "symbol": "solo",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Forta",
+    "slug": "forta",
+    "symbol": "fort",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Orbit Chain",
+    "slug": "orbit-chain",
+    "symbol": "orc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Taraxa",
+    "slug": "taraxa",
+    "symbol": "tara",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "FUNToken",
+    "slug": "funtoken",
+    "symbol": "fun",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DFI.Money",
+    "slug": "yearn-finance-ii",
+    "symbol": "yfii",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ThunderCore",
+    "slug": "thundercore",
+    "symbol": "tt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

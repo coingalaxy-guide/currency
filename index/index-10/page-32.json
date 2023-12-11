@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Stargate Finance",
+    "slug": "stargate-finance",
+    "symbol": "stg",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Metal DAO",
+    "slug": "metal",
+    "symbol": "mtl",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MiL.k",
+    "slug": "milk-alliance",
+    "symbol": "mlk",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Marlin",
+    "slug": "marlin",
+    "symbol": "pond",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Agoras: Currency of Tau",
+    "slug": "agoras-tokens",
+    "symbol": "agrs",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MetisDAO",
+    "slug": "metisdao",
+    "symbol": "metis",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Nano",
+    "slug": "nano",
+    "symbol": "xno",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "USDe",
+    "slug": "araw",
+    "symbol": "usde",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "LooksRare",
+    "slug": "looksrare",
+    "symbol": "looks",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "MobileCoin",
+    "slug": "mobilecoin",
+    "symbol": "mob",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

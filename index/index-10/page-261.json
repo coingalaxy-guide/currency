@@ -1,0 +1,112 @@
+[
+  {
+    "name": "RoboFi",
+    "slug": "robofi",
+    "symbol": "vics",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "HyperGPT",
+    "slug": "hypergpt",
+    "symbol": "hgpt",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "DogeSwap",
+    "slug": "dogeswap-heco",
+    "symbol": "dog",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Joe coin",
+    "slug": "joe-coin",
+    "symbol": "joe",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TokenAsset",
+    "slug": "tokenasset",
+    "symbol": "ntb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Revest Finance",
+    "slug": "revest-finance",
+    "symbol": "rvst",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "WORLD ID",
+    "slug": "world-id-woid",
+    "symbol": "woid",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Aurix",
+    "slug": "aurix",
+    "symbol": "aur",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Paycoin",
+    "slug": "payprotocol",
+    "symbol": "pci",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ZED Token",
+    "slug": "zed-run-token",
+    "symbol": "zed",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]

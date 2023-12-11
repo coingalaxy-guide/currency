@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Holdstation",
+    "slug": "holdstation",
+    "symbol": "hold",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ELON MARS",
+    "slug": "elon-mars",
+    "symbol": "elonmars",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Lido Staked SOL",
+    "slug": "lido-for-solana",
+    "symbol": "stsol",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Disney",
+    "slug": "disney",
+    "symbol": "dis",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "TENET",
+    "slug": "tenet-protocol",
+    "symbol": "tenet",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Satoshi Island",
+    "slug": "satoshi-island",
+    "symbol": "stc",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wall Street Baby",
+    "slug": "wall-street-bet",
+    "symbol": "wsb",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "ReserveBlock",
+    "slug": "reserveblock",
+    "symbol": "rbx",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "AzukiDAO",
+    "slug": "azukidao",
+    "symbol": "bean",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  },
+  {
+    "name": "Wrapped Fantom",
+    "slug": "wrapped-fantom",
+    "symbol": "wftm",
+    "stats": {
+      "contributors": 0,
+      "dependents": 0,
+      "forks": 0,
+      "commits": 0
+    }
+  }
+]
